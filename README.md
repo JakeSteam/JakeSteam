@@ -1,11 +1,11 @@
 ### Hello!
 
-- 👤 I'm a Staff Android Engineer in his 30s based near London.
-- 📩 I write a weeklyish newsletter called [Jake Week Lee](https://jakeweeklee.substack.com) (yes, a pun!).
-- 🎮 In the past I made Android games (e.g. [Pixel Blacksmith](https://play.google.com/store/apps/details?id=uk.co.jakelee.blacksmith&hl=en_GB&gl=US)), they're all open source now.
-- ✍ I blog regularly about [software development](https://blog.jakelee.co.uk), [internet history](https://history.jakelee.co.uk), and [everything else](https://jakelee.co.uk).
+I'm **Jake**, a Staff Android Engineer @ 🐸[Seatfrog](https://seatfrog.com/)🐸
 
-### Latest articles
+I write a weeklyish newsletter called [Jake Week Lee](https://jakeweeklee.substack.com) (yes, a pun!), and in the past made Android games (e.g. 🔨[Pixel Blacksmith](https://play.google.com/store/apps/details?id=uk.co.jakelee.blacksmith&hl=en_GB&gl=US)🔨). I also [read a lot](https://www.goodreads.com/jakesteam
+) and occasionally [take pictures](https://www.instagram.com/jakeleeuk/) (mostly of my cat 🐈Cassie🐈...).
+
+I write regularly about [software development](https://blog.jakelee.co.uk), [internet history](https://history.jakelee.co.uk), and [everything else](https://jakelee.co.uk), here's the latest few articles:
 <!-- feed start -->
 - 14 July - [What house can you afford? A calculator to simplify all house buying &amp; selling calculations in the UK 🏡](http://jakelee.co.uk/house-affordability-spreadsheet/)
 - 3 July - [Reviewing 3 recent Android games I’ve greatly enjoyed: Slitherlink, Lone Tower, and Cell: Idle Factory](http://jakelee.co.uk/june-july-android-game-reviews/)
