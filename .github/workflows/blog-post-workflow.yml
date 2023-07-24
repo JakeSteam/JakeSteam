@@ -13,7 +13,7 @@ jobs:
         id: feed
         with:
           file: 'README.md'
-          format: ${day} ${monthlong} - [${title}](${url})
+          format: '- ${day} ${monthlong} - [${title}](${url})'
           url: |
             https://jakelee.co.uk/feed.xml
             https://blog.jakelee.co.uk/feed.xml
