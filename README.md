@@ -6,5 +6,5 @@
 - ✍ I blog regularly about [software development](https://blog.jakelee.co.uk), [internet history](https://history.jakelee.co.uk), and [everything else](https://jakelee.co.uk).
 
 ### Latest articles
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- feed start -->
+<!-- feed end -->
