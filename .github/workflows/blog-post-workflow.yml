@@ -1,0 +1,20 @@
+name: All recent posts
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: sarisia/actions-readme-feed@v1
+        id: feed
+        with:
+          file: 'README.md'
+          url: |
+            https://jakelee.co.uk/feed.xml
+            https://blog.jakelee.co.uk/feed.xml
+            https://history.jakelee.co.uk/feed.xml
+      - if: ${{ steps.feed.outputs.changed == true }}
+        uses: sarisia/actions-commit@master
