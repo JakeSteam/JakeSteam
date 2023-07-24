@@ -13,9 +13,11 @@ jobs:
         id: feed
         with:
           file: 'README.md'
+          format: ${day} ${monthlong} - [${title}](${url})
           url: |
             https://jakelee.co.uk/feed.xml
             https://blog.jakelee.co.uk/feed.xml
             https://history.jakelee.co.uk/feed.xml
+            https://minima.jakelee.co.uk/feed.xml
       - if: ${{ steps.feed.outputs.changed == true }}
         uses: sarisia/actions-commit@master
