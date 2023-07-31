@@ -16,9 +16,10 @@ jobs:
           format: '- ${day} ${monthlong} - [${title}](${url})'
           timezone: 'Europe/London'
           url: |
-            https://jakelee.co.uk/feed.xml
             https://blog.jakelee.co.uk/feed.xml
             https://history.jakelee.co.uk/feed.xml
             https://minima.jakelee.co.uk/feed.xml
+            https://fiction.jakelee.co.uk/feed.xml
+            https://jakelee.co.uk/feed.xml
       - if: ${{ steps.feed.outputs.changed == true }}
         uses: sarisia/actions-commit@master
