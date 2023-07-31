@@ -20,5 +20,4 @@ jobs:
             https://blog.jakelee.co.uk/feed.xml
             https://history.jakelee.co.uk/feed.xml
             https://minima.jakelee.co.uk/feed.xml
-      - if: ${{ steps.feed.outputs.changed == true }}
-        uses: sarisia/actions-commit@master
+
