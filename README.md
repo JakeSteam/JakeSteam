@@ -5,7 +5,7 @@ I'm a Staff Android Engineer at 🐸[Seatfrog](https://seatfrog.com/)🐸, and d
 ## About
 
 When not writing code or words, I love:
-* 🚀 [Reading old sci-fi](https://www.goodreads.com/jakesteam)
+* 🚀 [Reading old sci-fi / obscure non-fiction](https://www.goodreads.com/jakesteam)
 * 😻 [Posting cat pictures](https://www.instagram.com/jakeleeuk/)
 * 🚗 [Playing Forza](https://account.xbox.com/en-gb/profile?gamertag=JakeLeeUK)
 
