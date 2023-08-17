@@ -1,11 +1,16 @@
-### Hello!
+# Hello, I'm Jake! 👋
 
-I'm **Jake**, a Staff Android Engineer @ 🐸[Seatfrog](https://seatfrog.com/)🐸
+I'm a Staff Android Engineer at 🐸[Seatfrog](https://seatfrog.com/)🐸, and do web-y things in my spare time. 
 
-I write a weeklyish newsletter called [Jake Week Lee](https://jakeweeklee.substack.com) (yes, a pun!), and in the past made Android games (e.g. 🔨[Pixel Blacksmith](https://play.google.com/store/apps/details?id=uk.co.jakelee.blacksmith&hl=en_GB&gl=US)🔨). I also [read a lot](https://www.goodreads.com/jakesteam
-) and occasionally [take pictures](https://www.instagram.com/jakeleeuk/) (mostly of my cat 🐈Cassie🐈...).
+## About
 
-I write regularly about [software development](https://blog.jakelee.co.uk), [internet history](https://history.jakelee.co.uk), and [everything else](https://jakelee.co.uk), here's the latest few articles:
+When not writing code or words, I love:
+* 🚀 [Reading old sci-fi](https://www.goodreads.com/jakesteam)
+* 😻 [Posting cat pictures](https://www.instagram.com/jakeleeuk/)
+* 🚗 [Playing Forza](https://account.xbox.com/en-gb/profile?gamertag=JakeLeeUK)
+
+## Latest Articles ([Substack](https://jakeweeklee.substack.com))
+
 <!-- feed start -->
 - 7 August - [Introducing “The Jerma List™️”, a list of 70+ Jerma-related YouTube channels 📺](https://blog.jakelee.co.uk/jerma-fan-channel-list/)
 - 4 August - [Different approaches to conversation transcript formatting in Markdown 🗣️✍️](https://blog.jakelee.co.uk/markdown-conversation-formatting/)
@@ -13,3 +18,7 @@ I write regularly about [software development](https://blog.jakelee.co.uk), [int
 - 30 July - [Experimenting with GitHub’s “alert” markdown syntax](https://blog.jakelee.co.uk/github-alert-experiments/)
 - 29 July - [How to discover your Jekyll site’s total word count, longest / shortest post, and more 🔡](https://blog.jakelee.co.uk/calculating-jekyll-blog-word-count-and-more/)
 <!-- feed end -->
+
+## More
+
+Want to know more / get in touch / add me somewhere? [Full about me](https://jakelee.co.uk/about/).
