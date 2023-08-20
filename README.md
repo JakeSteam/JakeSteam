@@ -13,6 +13,12 @@ I'm a Staff Android Engineer at 🐸[Seatfrog](https://seatfrog.com/)🐸, and d
 
 ## Currently Reading ([Goodreads](https://goodreads.com/jakesteam))
 <!-- GOODREADS-LIST:START -->
+- [An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/review/show/4897983185?utm_medium=api&utm_source=rss) by Will Larson (⭐️4.09)
+- [XX](https://www.goodreads.com/review/show/5702828361?utm_medium=api&utm_source=rss) by Rian Hughes (⭐️3.93)
+- [Collapse: The Fall of the Soviet Union](https://www.goodreads.com/review/show/4630812022?utm_medium=api&utm_source=rss) by Vladislav M. Zubok (⭐️4.24)
+- [British Rail](https://www.goodreads.com/review/show/5713163925?utm_medium=api&utm_source=rss) by Christian Wolmar (⭐️4.14)
+- [Network Effect (The Murderbot Diaries, #5)](https://www.goodreads.com/review/show/5765845882?utm_medium=api&utm_source=rss) by Martha Wells (⭐️4.44)
+- [The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography](https://www.goodreads.com/review/show/5781806055?utm_medium=api&utm_source=rss) by Simon Singh (⭐️4.28)
 <!-- GOODREADS-LIST:END -->
 
 ## More
