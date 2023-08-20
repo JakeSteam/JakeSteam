@@ -1,4 +1,4 @@
-name: All recent posts
+name: Update books and articles
 on:
   schedule:
     - cron: '0 */6 * * *'
@@ -9,6 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - uses: zwacky/goodreads-profile-workflow@main
+        with:
+          goodreads_user_id: "29398258"
+          sort_by_fields: "<user_date_added"
       - uses: sarisia/actions-readme-feed@v1
         id: feed
         with:
