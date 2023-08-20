@@ -23,4 +23,4 @@ I'm a Staff Android Engineer at 🐸[Seatfrog](https://seatfrog.com/)🐸, and d
 
 ## More
 
-Want to know more / get in touch / add me somewhere? [Full about me](https://jakelee.co.uk/about/).
+Want to know more / get in touch / add me somewhere? [More info](https://jakelee.co.uk/about/).
