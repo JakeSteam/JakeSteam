@@ -27,3 +27,7 @@ jobs:
             https://jakelee.co.uk/feed.xml
       - if: ${{ steps.feed.outputs.changed == true }}
         uses: sarisia/actions-commit@master
+        with:
+          name: GitHub Actions
+          email: actions@github.com
+          message: Updates article list
