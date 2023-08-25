@@ -16,7 +16,6 @@ I'm a Staff Android Engineer at 🐸[Seatfrog](https://seatfrog.com/)🐸, and d
 - [An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/review/show/4897983185?utm_medium=api&utm_source=rss) by Will Larson (⭐️4.09)
 - [Collapse: The Fall of the Soviet Union](https://www.goodreads.com/review/show/4630812022?utm_medium=api&utm_source=rss) by Vladislav M. Zubok (⭐️4.24)
 - [British Rail](https://www.goodreads.com/review/show/5713163925?utm_medium=api&utm_source=rss) by Christian Wolmar (⭐️4.14)
-- [Network Effect (The Murderbot Diaries, #5)](https://www.goodreads.com/review/show/5765845882?utm_medium=api&utm_source=rss) by Martha Wells (⭐️4.44)
 - [The Way Things Work](https://www.goodreads.com/review/show/5792307272?utm_medium=api&utm_source=rss) by David Macaulay (⭐️4.34)
 <!-- GOODREADS-LIST:END -->
 
