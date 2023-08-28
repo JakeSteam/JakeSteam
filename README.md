@@ -15,8 +15,8 @@ I'm a Staff Android Engineer at 🐸[Seatfrog](https://seatfrog.com/)🐸, and d
 <!-- GOODREADS-LIST:START -->
 - [An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/review/show/4897983185?utm_medium=api&utm_source=rss) by Will Larson (⭐️4.09)
 - [Collapse: The Fall of the Soviet Union](https://www.goodreads.com/review/show/4630812022?utm_medium=api&utm_source=rss) by Vladislav M. Zubok (⭐️4.25)
-- [The Cat Who Came in from the Cold](https://www.goodreads.com/review/show/5779769043?utm_medium=api&utm_source=rss) by Deric Longden (⭐️4.32)
 - [Fugitive Telemetry (The Murderbot Diaries, #6)](https://www.goodreads.com/review/show/5801750200?utm_medium=api&utm_source=rss) by Martha Wells (⭐️4.27)
+- [The Spy Who Came In from the Cold (George Smiley, #3)](https://www.goodreads.com/review/show/3942061722?utm_medium=api&utm_source=rss) by John le Carré (⭐️4.06)
 <!-- GOODREADS-LIST:END -->
 
 ## More
