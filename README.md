@@ -4,11 +4,11 @@ I'm a Staff Android Engineer at 🐸[Seatfrog](https://seatfrog.com/)🐸, and d
 
 ## Latest Articles ([Substack](https://jakeweeklee.substack.com))
 <!-- feed start -->
+- 30 August - [Introducing “The Yogscast List™️”, a list of 100+ Yogscast-y YouTube channels 📺](https://blog.jakelee.co.uk/list-of-yogscast-youtube-channels/)
 - 20 August - [minimaJake v1.0.8 release notes](https://minima.jakelee.co.uk/v1.0.8/)
 - 19 August - [Building a GitHub Actions script to fetch metadata from multiple YouTube channels, and save it into a Markdown file](https://blog.jakelee.co.uk/fetching-youtube-metadata-in-github-actions-and-persisting/)
 - 7 August - [Introducing “The Jerma List™️”, a list of 70+ Jerma-related YouTube channels 📺](https://blog.jakelee.co.uk/jerma-fan-channel-list/)
 - 4 August - [Different approaches to conversation transcript formatting in Markdown 🗣️✍️](https://blog.jakelee.co.uk/markdown-conversation-formatting/)
-- 4 August - [minimaJake v1.0.7 release notes](https://minima.jakelee.co.uk/v1.0.7/)
 <!-- feed end -->
 
 ## Currently Reading ([Goodreads](https://goodreads.com/jakesteam))
