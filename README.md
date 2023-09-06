@@ -19,7 +19,7 @@ I'm currently working on [CodeCured.org](https://codecured.org), a cat welfare n
 - [Collapse: The Fall of the Soviet Union](https://www.goodreads.com/review/show/4630812022?utm_medium=api&utm_source=rss) by Vladislav M. Zubok (⭐️4.25)
 - [The Spy Who Came In from the Cold (George Smiley, #3)](https://www.goodreads.com/review/show/3942061722?utm_medium=api&utm_source=rss) by John le Carré (⭐️4.06)
 - [Carmageddon: How Cars Make Life Worse and What to Do About It](https://www.goodreads.com/review/show/5809035858?utm_medium=api&utm_source=rss) by Daniel Knowles (⭐️4.21)
-- [Hummingbird Salamander](https://www.goodreads.com/review/show/3814407753?utm_medium=api&utm_source=rss) by Jeff VanderMeer (⭐️3.23)
+- [Hummingbird Salamander](https://www.goodreads.com/review/show/3814407753?utm_medium=api&utm_source=rss) by Jeff VanderMeer (⭐️3.22)
 <!-- GOODREADS-LIST:END -->
 
 ## More
