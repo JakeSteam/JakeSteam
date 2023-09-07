@@ -17,9 +17,10 @@ I'm currently working on [CodeCured.org](https://codecured.org), a cat welfare n
 <!-- GOODREADS-LIST:START -->
 - [An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/review/show/4897983185?utm_medium=api&utm_source=rss) by Will Larson (⭐️4.09)
 - [Collapse: The Fall of the Soviet Union](https://www.goodreads.com/review/show/4630812022?utm_medium=api&utm_source=rss) by Vladislav M. Zubok (⭐️4.25)
-- [The Spy Who Came In from the Cold (George Smiley, #3)](https://www.goodreads.com/review/show/3942061722?utm_medium=api&utm_source=rss) by John le Carré (⭐️4.06)
 - [Carmageddon: How Cars Make Life Worse and What to Do About It](https://www.goodreads.com/review/show/5809035858?utm_medium=api&utm_source=rss) by Daniel Knowles (⭐️4.21)
 - [Hummingbird Salamander](https://www.goodreads.com/review/show/3814407753?utm_medium=api&utm_source=rss) by Jeff VanderMeer (⭐️3.22)
+- [The Gum Thief](https://www.goodreads.com/review/show/5781805011?utm_medium=api&utm_source=rss) by Douglas Coupland (⭐️3.51)
+- [The Elder Scrolls V: Skyrim - The Skyrim Library, Vol. I: The Histories (Skyrim Library,  #1)](https://www.goodreads.com/review/show/5825954605?utm_medium=api&utm_source=rss) by Bethesda Softworks (⭐️4.33)
 <!-- GOODREADS-LIST:END -->
 
 ## More
