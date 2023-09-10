@@ -6,11 +6,11 @@ I'm currently working on [CodeCured.org](https://codecured.org), a cat welfare n
 
 ## Latest Articles ([Substack](https://jakeweeklee.substack.com))
 <!-- feed start -->
+- 10 September - [Introducing “Forza Update”, a minisite automatically tracking the next Forza Horizon 5 season &amp; series](https://blog.jakelee.co.uk/forza-update-timer-miniproject/)
 - 9 September - [The complete guide to all 4 “secret” Forza Horizon 5 DLC cars (and 1 DLC outfit)](http://jakelee.co.uk/complete-guide-to-fh5-secret-dlc-cars/)
 - 6 September - [Some recent Android games I’ve enjoyed: Casting Away, Inventory Idle, Griddie Islands, and Fill-a-pix 📲](http://jakelee.co.uk/august-sept-android-game-reviews/)
 - 5 September - [Identifying and fixing a DisplayListCanvas crash (too large bitmap) with none of my Android code in the stacktrace](https://blog.jakelee.co.uk/displaylistcanvas-crash-with-no-codebase-references/)
 - 30 August - [Introducing “The Yogscast List™️”, a list of 100+ Yogscast-y YouTube channels 📺](https://blog.jakelee.co.uk/list-of-yogscast-youtube-channels/)
-- 20 August - [minimaJake v1.0.8 release notes](https://minima.jakelee.co.uk/v1.0.8/)
 <!-- feed end -->
 
 ## Currently Reading ([Goodreads](https://goodreads.com/jakesteam))
