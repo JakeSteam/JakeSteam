@@ -20,6 +20,7 @@ I'm currently working on [CodeCured.org](https://codecured.org), a cat welfare n
 - [Carmageddon: How Cars Make Life Worse and What to Do About It](https://www.goodreads.com/review/show/5809035858?utm_medium=api&utm_source=rss) by Daniel Knowles (⭐️4.22)
 - [Hummingbird Salamander](https://www.goodreads.com/review/show/3814407753?utm_medium=api&utm_source=rss) by Jeff VanderMeer (⭐️3.22)
 - [City of God](https://www.goodreads.com/review/show/5625209050?utm_medium=api&utm_source=rss) by Paulo Lins (⭐️3.94)
+- [Max Hits: Building and Promoting Successful Websites](https://www.goodreads.com/review/show/5837018538?utm_medium=api&utm_source=rss) by Mike Slocombe (⭐️2)
 <!-- GOODREADS-LIST:END -->
 
 ## More
