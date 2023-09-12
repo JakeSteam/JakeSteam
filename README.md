@@ -17,9 +17,9 @@ I'm currently working on [CodeCured.org](https://codecured.org), a cat welfare n
 <!-- GOODREADS-LIST:START -->
 - [An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/review/show/4897983185?utm_medium=api&utm_source=rss) by Will Larson (⭐️4.09)
 - [Collapse: The Fall of the Soviet Union](https://www.goodreads.com/review/show/4630812022?utm_medium=api&utm_source=rss) by Vladislav M. Zubok (⭐️4.25)
-- [Carmageddon: How Cars Make Life Worse and What to Do About It](https://www.goodreads.com/review/show/5809035858?utm_medium=api&utm_source=rss) by Daniel Knowles (⭐️4.21)
+- [Carmageddon: How Cars Make Life Worse and What to Do About It](https://www.goodreads.com/review/show/5809035858?utm_medium=api&utm_source=rss) by Daniel Knowles (⭐️4.22)
 - [Hummingbird Salamander](https://www.goodreads.com/review/show/3814407753?utm_medium=api&utm_source=rss) by Jeff VanderMeer (⭐️3.22)
-- [Firmament: The Hidden Science of Weather, Climate Change and the Air That Surrounds Us](https://www.goodreads.com/review/show/5654397170?utm_medium=api&utm_source=rss) by Simon    Clark (⭐️4.3)
+- [City of God](https://www.goodreads.com/review/show/5625209050?utm_medium=api&utm_source=rss) by Paulo Lins (⭐️3.94)
 <!-- GOODREADS-LIST:END -->
 
 ## More
