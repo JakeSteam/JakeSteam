@@ -8,9 +8,9 @@ I'm currently working on [CodeCured.org](https://codecured.org), a cat welfare n
 <!-- feed start -->
 - 16 September - [A recommendation for Shopify’s free logo generator ‘Hatchful’, and pros &amp; cons of free logo tools](http://jakelee.co.uk/recommendation-shopify-logo-creator/)
 - 13 September - [Removing (or customising) the “This site is open source. Improve this page.” footer on GitHub Pages](https://blog.jakelee.co.uk/removing-github-pages-improve-this-page/)
+- 13 September - [New project: YouTube is for Cats!](https://news.codecured.org/new-project-youtube-is-for-cats/)
 - 10 September - [Introducing “Forza Update”, a minisite automatically tracking the next Forza Horizon 5 season &amp; series](https://blog.jakelee.co.uk/forza-update-timer-miniproject/)
 - 9 September - [The complete guide to all 4 “secret” Forza Horizon 5 DLC cars (and 1 DLC outfit)](http://jakelee.co.uk/complete-guide-to-fh5-secret-dlc-cars/)
-- 6 September - [Some recent Android games I’ve enjoyed: Casting Away, Inventory Idle, Griddie Islands, and Fill-a-pix 📲](http://jakelee.co.uk/august-sept-android-game-reviews/)
 <!-- feed end -->
 
 ## Currently Reading ([Goodreads](https://goodreads.com/jakesteam))
