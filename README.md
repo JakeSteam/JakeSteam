@@ -17,8 +17,8 @@ I'm currently working on [CodeCured.org](https://codecured.org), a cat welfare n
 <!-- GOODREADS-LIST:START -->
 - [An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/review/show/4897983185?utm_medium=api&utm_source=rss) by Will Larson (⭐️4.09)
 - [Collapse: The Fall of the Soviet Union](https://www.goodreads.com/review/show/4630812022?utm_medium=api&utm_source=rss) by Vladislav M. Zubok (⭐️4.24)
-- [Carmageddon: How Cars Make Life Worse and What to Do About It](https://www.goodreads.com/review/show/5809035858?utm_medium=api&utm_source=rss) by Daniel Knowles (⭐️4.21)
 - [City of God](https://www.goodreads.com/review/show/5625209050?utm_medium=api&utm_source=rss) by Paulo Lins (⭐️3.94)
+- [Bliss Montage](https://www.goodreads.com/review/show/5854595710?utm_medium=api&utm_source=rss) by Ling  Ma (⭐️3.94)
 <!-- GOODREADS-LIST:END -->
 
 ## More
