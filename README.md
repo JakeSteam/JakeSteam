@@ -6,11 +6,11 @@ I'm currently working on [CodeCured.org](https://codecured.org), a cat welfare n
 
 ## Latest Articles
 <!-- feed start -->
+- 29 September - [4 recent Android game recommendations: Knights of San Francisco, .projekt, inbento, red 📲](http://jakelee.co.uk/sept-android-game-reviews/)
 - 21 September - [Using Google Search Console to effortlessly monitor small hobby projects (or big ones!)](https://blog.jakelee.co.uk/using-google-search-console-for-hobby-projects/)
 - 16 September - [A recommendation for Shopify’s free logo generator ‘Hatchful’, and pros &amp; cons of free logo tools](http://jakelee.co.uk/recommendation-shopify-logo-creator/)
 - 13 September - [Removing (or customising) the “This site is open source. Improve this page.” footer on GitHub Pages](https://blog.jakelee.co.uk/removing-github-pages-improve-this-page/)
 - 13 September - [New project: YouTube is for Cats!](https://news.codecured.org/new-project-youtube-is-for-cats/)
-- 10 September - [Introducing “Forza Update”, a minisite automatically tracking the next Forza Horizon 5 season &amp; series](https://blog.jakelee.co.uk/forza-update-timer-miniproject/)
 <!-- feed end -->
 *I also have a semi-regular newsletter on [Substack](https://jakeweeklee.substack.com)*.
 
