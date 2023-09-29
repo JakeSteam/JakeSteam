@@ -17,7 +17,7 @@ I'm currently working on [CodeCured.org](https://codecured.org), a cat welfare n
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
 - [An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/review/show/4897983185?utm_medium=api&utm_source=rss) by Will Larson (⭐️4.1)
-- [Collapse: The Fall of the Soviet Union](https://www.goodreads.com/review/show/4630812022?utm_medium=api&utm_source=rss) by Vladislav M. Zubok (⭐️4.24)
+- [Collapse: The Fall of the Soviet Union](https://www.goodreads.com/review/show/4630812022?utm_medium=api&utm_source=rss) by Vladislav M. Zubok (⭐️4.25)
 - [City of God](https://www.goodreads.com/review/show/5625209050?utm_medium=api&utm_source=rss) by Paulo Lins (⭐️3.94)
 - [The Death of Grass](https://www.goodreads.com/review/show/5863445681?utm_medium=api&utm_source=rss) by John Christopher (⭐️3.87)
 <!-- GOODREADS-LIST:END -->
