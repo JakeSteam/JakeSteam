@@ -6,11 +6,11 @@ I'm currently working on [CodeCured.org](https://codecured.org), a cat welfare n
 
 ## Latest Articles
 <!-- feed start -->
+- 11 October - [minimaJake v1.0.9 release notes](http://minima.jakelee.co.uk/v1.0.9/)
 - 9 October - [Introducing “OSRS Ironmen”, a list of 150+ OSRS Ironmen YouTube Series ⚒️](http://blog.jakelee.co.uk/osrs-ironmen-list-of-youtube-series/)
 - 30 September - [47 tips for Burnout Paradise (Remastered), still fun 15 (or 5) years later! 🚗💨](http://jakelee.co.uk/burnout-paradise-remastered-tips/)
 - 29 September - [4 recent Android game recommendations: Knights of San Francisco, .projekt, inbento, red 📲](http://jakelee.co.uk/sept-android-game-reviews/)
 - 21 September - [Using Google Search Console to effortlessly monitor small hobby projects (or big ones!)](http://blog.jakelee.co.uk/using-google-search-console-for-hobby-projects/)
-- 16 September - [A recommendation for Shopify’s free logo generator ‘Hatchful’, and pros &amp; cons of free logo tools](http://jakelee.co.uk/recommendation-shopify-logo-creator/)
 <!-- feed end -->
 *I also have a semi-regular newsletter on [Substack](https://jakeweeklee.substack.com)*.
 
