@@ -24,6 +24,7 @@ jobs:
             https://history.jakelee.co.uk/feed.xml
             https://minima.jakelee.co.uk/feed.xml
             https://fiction.jakelee.co.uk/feed.xml
+            https://fragments.jakelee.co.uk/feed.xml
             https://jakelee.co.uk/feed.xml
             https://news.codecured.org/feed.xml
       - if: ${{ steps.feed.outputs.changed == true }}
