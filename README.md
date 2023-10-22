@@ -6,11 +6,11 @@ I'm currently working on [CodeCured.org](https://codecured.org), a cat welfare n
 
 ## Latest Articles
 <!-- feed start -->
+- 21 October - [minimaJake v1.0.10 release notes](http://minima.jakelee.co.uk/v1.0.10/)
 - 18 October - [I got scammed with a very high quality fake LEGO Porsche 911 RSR! Here’s all the red flags I missed, and why I’m keeping the set](http://jakelee.co.uk/warning-signs-of-fake-lego-porsche-911-rsr/)
 - 13 October - [5 niche but powerful HTML elements that can prevent you reinventing wheels with JS &amp; CSS (e.g. expanding content)](http://blog.jakelee.co.uk/niche-html-elements/)
 - 11 October - [minimaJake v1.0.9 release notes](http://minima.jakelee.co.uk/v1.0.9/)
 - 9 October - [Introducing “OSRS Ironmen”, a list of 150+ OSRS Ironmen YouTube Series ⚒️](http://blog.jakelee.co.uk/osrs-ironmen-list-of-youtube-series/)
-- 30 September - [47 tips for Burnout Paradise (Remastered), still fun 15 (or 5) years later! 🚗💨](http://jakelee.co.uk/burnout-paradise-remastered-tips/)
 <!-- feed end -->
 *I also have a semi-regular newsletter on [Substack](https://jakeweeklee.substack.com)*.
 
