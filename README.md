@@ -6,11 +6,11 @@ I'm currently working on [CodeCured.org](https://codecured.org), a cat welfare n
 
 ## Latest Articles
 <!-- feed start -->
+- 23 October - [Delusions of grandeur, or how to not die](http://fragments.jakelee.co.uk/delusions-of-grandeur/)
 - 22 October - [How to install LaTeX (with previews &amp; autocomplete) for VSCode on Windows](http://blog.jakelee.co.uk/getting-latex-working-in-vscode-on-windows/)
 - 21 October - [minimaJake v1.0.10 release notes](http://minima.jakelee.co.uk/v1.0.10/)
 - 18 October - [I got scammed with a very high quality fake LEGO Porsche 911 RSR! Here’s all the red flags I missed, and why I’m keeping the set](http://jakelee.co.uk/warning-signs-of-fake-lego-porsche-911-rsr/)
 - 13 October - [5 niche but powerful HTML elements that can prevent you reinventing wheels with JS &amp; CSS (e.g. expanding content)](http://blog.jakelee.co.uk/niche-html-elements/)
-- 11 October - [minimaJake v1.0.9 release notes](http://minima.jakelee.co.uk/v1.0.9/)
 <!-- feed end -->
 *I also have a semi-regular newsletter on [Substack](https://jakeweeklee.substack.com)*.
 
