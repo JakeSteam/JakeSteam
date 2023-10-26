@@ -20,7 +20,6 @@ I'm currently working on [CodeCured.org](https://codecured.org), a cat welfare n
 - [City of God](https://www.goodreads.com/review/show/5625209050?utm_medium=api&utm_source=rss) by Paulo Lins (⭐️3.94)
 - [Kraken](https://www.goodreads.com/review/show/5893384412?utm_medium=api&utm_source=rss) by China Miéville (⭐️3.61)
 - [A Little History of Literature (Little Histories)](https://www.goodreads.com/review/show/4671404998?utm_medium=api&utm_source=rss) by John Sutherland (⭐️3.87)
-- [Twas the Nightshift Before Christmas](https://www.goodreads.com/review/show/5924963325?utm_medium=api&utm_source=rss) by Adam Kay (⭐️4.1)
 <!-- GOODREADS-LIST:END -->
 *I also track all my current / past books on [Goodreads](https://goodreads.com/jakesteam)*.
 
