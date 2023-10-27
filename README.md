@@ -2,7 +2,9 @@
 
 I'm a Staff Android Engineer at 🐸[Seatfrog](https://seatfrog.com/)🐸, and do open source web-y things in my spare time. 
 
-I'm currently working on [CodeCured.org](https://codecured.org), a cat welfare non-profit 😻.
+I'm currently working on:
+* 😻[CodeCured.org](https://codecured.org), a cat welfare non-profit.
+* 🕴️[BountyHour.com](https://bountyhour.com), a microcontracting marketplace.
 
 ## Latest Articles
 <!-- feed start -->
