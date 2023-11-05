@@ -8,11 +8,11 @@ I'm currently working on:
 
 ## Latest Articles
 <!-- feed start -->
+- 5 November - [First impressions migrating from LastPass to 1Password](http://blog.jakelee.co.uk/1password-migration/)
 - 27 October - [Moonshot: What if you set your goals too high, and achieve them?](http://fragments.jakelee.co.uk/moonshots-and-how-to-achieve-them/)
 - 27 October - [Idle Iktah: An Android idle game that has become my obsession](http://jakelee.co.uk/idle-iktah-android-game/)
 - 25 October - [18 years ago today, ‘The Scary Maze Game’ was released, a screamer game that terrified millions](http://history.jakelee.co.uk/the-scary-maze-game-screamer-decompiled/)
 - 23 October - [Delusions of grandeur, or how to not die](http://fragments.jakelee.co.uk/delusions-of-grandeur/)
-- 22 October - [How to install LaTeX (with previews &amp; autocomplete) for VSCode on Windows](http://blog.jakelee.co.uk/getting-latex-working-in-vscode-on-windows/)
 <!-- feed end -->
 *I also have a semi-regular newsletter on [Substack](https://jakeweeklee.substack.com)*.
 
