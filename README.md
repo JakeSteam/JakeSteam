@@ -23,9 +23,9 @@ I'm currently learning:
 <!-- GOODREADS-LIST:START -->
 - [Collapse: The Fall of the Soviet Union](https://www.goodreads.com/review/show/4630812022?utm_medium=api&utm_source=rss) by Vladislav M. Zubok (⭐️4.26)
 - [Friends, Lovers, and the Big Terrible Thing](https://www.goodreads.com/review/show/5975782576?utm_medium=api&utm_source=rss) by Matthew   Perry (⭐️3.74)
-- [The Software Engineer's Guidebook: Navigating senior, tech lead, and staff engineer positions at tech companies and startups](https://www.goodreads.com/review/show/5980719969?utm_medium=api&utm_source=rss) by Gergely  Orosz (⭐️4.58)
-- [The Internet Con: How to Seize the Means of Computation](https://www.goodreads.com/review/show/5988172827?utm_medium=api&utm_source=rss) by Cory Doctorow (⭐️4.17)
+- [The Software Engineer's Guidebook: Navigating senior, tech lead, and staff engineer positions at tech companies and startups](https://www.goodreads.com/review/show/5980719969?utm_medium=api&utm_source=rss) by Gergely  Orosz (⭐️4.54)
 - [The Last Man](https://www.goodreads.com/review/show/5625209475?utm_medium=api&utm_source=rss) by Mary Wollstonecraft Shelley (⭐️3.38)
+- [Lunar Park](https://www.goodreads.com/review/show/6008399112?utm_medium=api&utm_source=rss) by Bret Easton Ellis (⭐️3.64)
 <!-- GOODREADS-LIST:END -->
 *I also track all my current / past books on [Goodreads](https://goodreads.com/jakesteam)*.
 
