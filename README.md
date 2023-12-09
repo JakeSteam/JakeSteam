@@ -11,7 +11,7 @@ I'm currently learning:
 
 ## Latest Articles
 <!-- feed start -->
-- 5 December - [Reviewing ALL 75 Steam games from the Yogscast’s 2023 Jingle Jam charity bundle (part 1 of 3)](http://jakelee.co.uk/reviewing-every-jingle-jam-2023-game/)
+- 5 December - [Reviewing ALL 75+ Steam games from the Yogscast’s 2023 Jingle Jam charity bundle (part 1 of 3)](http://jakelee.co.uk/reviewing-every-jingle-jam-2023-game/)
 - 26 November - [Fear and uncertainty are worse than failure](http://fragments.jakelee.co.uk/uncertainty-is-fear/)
 - 25 November - [I love Idle Iktah. Here’s 43 tips, and 3 mini-guides ⏳](http://jakelee.co.uk/idle-iktah-tips-faqs-and-endgame-guides/)
 - 5 November - [First impressions migrating from LastPass to 1Password](http://blog.jakelee.co.uk/1password-migration/)
