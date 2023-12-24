@@ -22,7 +22,7 @@ I'm currently learning:
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
 - [Collapse: The Fall of the Soviet Union](https://www.goodreads.com/review/show/4630812022?utm_medium=api&utm_source=rss) by Vladislav M. Zubok (⭐️4.26)
-- [The Software Engineer's Guidebook: Navigating senior, tech lead, and staff engineer positions at tech companies and startups](https://www.goodreads.com/review/show/5980719969?utm_medium=api&utm_source=rss) by Gergely  Orosz (⭐️4.35)
+- [The Software Engineer's Guidebook: Navigating senior, tech lead, and staff engineer positions at tech companies and startups](https://www.goodreads.com/review/show/5980719969?utm_medium=api&utm_source=rss) by Gergely  Orosz (⭐️4.37)
 - [The Last Man](https://www.goodreads.com/review/show/5625209475?utm_medium=api&utm_source=rss) by Mary Wollstonecraft Shelley (⭐️3.38)
 - [A Brief History of Everyone Who Ever Lived: The Stories in Our Genes](https://www.goodreads.com/review/show/5590902774?utm_medium=api&utm_source=rss) by Adam Rutherford (⭐️4.02)
 - [Red Plenty: Inside the Fifties’ Soviet Dream](https://www.goodreads.com/review/show/5658792150?utm_medium=api&utm_source=rss) by Francis Spufford (⭐️4.08)
