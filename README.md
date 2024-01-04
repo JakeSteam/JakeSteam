@@ -3,11 +3,9 @@
 I work as a Staff Android Engineer at 🐸[Seatfrog](https://seatfrog.com/)🐸, and do open source web-y / writing-y things in my spare time. 
 
 My current big projects are:
-* 😻[CodeCured.org](https://codecured.org), a cat welfare non-profit.
-* 🕴️[BountyHour.com](https://bountyhour.com), a microcontracting marketplace.
-
-I'm currently learning:
-* ⚛️[React](https://react.dev/) / [next.js](https://nextjs.org/)
+* 😻 [CodeCured.org](https://codecured.org), a cat welfare non-profit.
+* 🕴️ [BountyHour.com](https://bountyhour.com), a microcontracting marketplace.
+* ⚛️ Learning [React](https://react.dev/) / [next.js](https://nextjs.org/).
 
 ## Latest Articles
 <!-- feed start -->
