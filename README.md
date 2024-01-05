@@ -9,11 +9,11 @@ My current big projects are:
 
 ## Latest Articles
 <!-- feed start -->
+- 5 January - [How I spent 4 days in Prague, told via 25 Google Maps &amp; TripAdvisor reviews 🌆](http://jakelee.co.uk/prague-reviews/)
 - 2 January - [How I spent 2 days in Vienna, told via 12 Google Maps reviews 🏰](http://jakelee.co.uk/vienna-reviews/)
 - 31 December - [How I spent 3 days in Zurich, told via 23 Google Maps &amp; TripAdvisor reviews 🏔️](http://jakelee.co.uk/zurich-reviews/)
 - 10 December - [Reviewing ALL 75+ Steam games from the Yogscast’s 2023 Jingle Jam charity bundle (part 2 of 3)](http://jakelee.co.uk/reviewing-every-jingle-jam-2023-game-2/)
 - 5 December - [Reviewing ALL 75+ Steam games from the Yogscast’s 2023 Jingle Jam charity bundle (part 1 of 3)](http://jakelee.co.uk/reviewing-every-jingle-jam-2023-game/)
-- 26 November - [Fear and uncertainty are worse than failure](http://fragments.jakelee.co.uk/uncertainty-is-fear/)
 <!-- feed end -->
 *I also have a semi-regular newsletter on [Substack](https://jakeweeklee.substack.com)*.
 
