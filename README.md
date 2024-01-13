@@ -22,7 +22,7 @@ My current big projects are:
 - [The Software Engineer's Guidebook: Navigating senior, tech lead, and staff engineer positions at tech companies and startups](https://www.goodreads.com/review/show/5980719969?utm_medium=api&utm_source=rss) by Gergely  Orosz (⭐️4.39)
 - [The Last Man](https://www.goodreads.com/review/show/5625209475?utm_medium=api&utm_source=rss) by Mary Wollstonecraft Shelley (⭐️3.38)
 - [A Brief History of Everyone Who Ever Lived: The Stories in Our Genes](https://www.goodreads.com/review/show/5590902774?utm_medium=api&utm_source=rss) by Adam Rutherford (⭐️4.02)
-- [The Player of Games (Culture, #2)](https://www.goodreads.com/review/show/6131061746?utm_medium=api&utm_source=rss) by Iain M. Banks (⭐️4.28)
+- [Leech](https://www.goodreads.com/review/show/6161714109?utm_medium=api&utm_source=rss) by Hiron Ennes (⭐️3.59)
 <!-- GOODREADS-LIST:END -->
 *I also track all my current / past books on [Goodreads](https://goodreads.com/jakesteam)*.
 
