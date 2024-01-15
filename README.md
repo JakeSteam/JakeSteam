@@ -14,7 +14,7 @@ My current big projects are:
 - 2 January - [How I spent 2 days in Vienna, told via 12 Google Maps reviews 🏰](http://jakelee.co.uk/vienna-reviews/)
 - 31 December - [How I spent 3 days in Zurich, told via 23 Google Maps &amp; TripAdvisor reviews 🏔️](http://jakelee.co.uk/zurich-reviews/)
 <!-- feed end -->
-*I also have a semi-regular newsletter on [Substack](https://jakeweeklee.substack.com)*.
+*[Substack](https://jakeweeklee.substack.com)*
 
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
@@ -24,8 +24,4 @@ My current big projects are:
 - [A Brief History of Everyone Who Ever Lived: The Stories in Our Genes](https://www.goodreads.com/review/show/5590902774?utm_medium=api&utm_source=rss) by Adam Rutherford (⭐️4.02)
 - [Leech](https://www.goodreads.com/review/show/6161714109?utm_medium=api&utm_source=rss) by Hiron Ennes (⭐️3.59)
 <!-- GOODREADS-LIST:END -->
-*I also track all my current / past books on [Goodreads](https://goodreads.com/jakesteam)*.
-
-## More
-
-Want to know more / get in touch / add me somewhere? [More info](https://jakelee.co.uk/about/).
+*[Goodreads](https://goodreads.com/jakesteam)*
