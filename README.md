@@ -21,6 +21,6 @@ My current big projects are:
 - [Collapse: The Fall of the Soviet Union](https://www.goodreads.com/review/show/4630812022?utm_medium=api&utm_source=rss) by Vladislav M. Zubok (⭐️4.26)
 - [The Last Man](https://www.goodreads.com/review/show/5625209475?utm_medium=api&utm_source=rss) by Mary Wollstonecraft Shelley (⭐️3.38)
 - [A Brief History of Everyone Who Ever Lived: The Stories in Our Genes](https://www.goodreads.com/review/show/5590902774?utm_medium=api&utm_source=rss) by Adam Rutherford (⭐️4.02)
-- [Generation Kill: Devil Dogs, Iceman, Captain America, and the New Face of American War](https://www.goodreads.com/review/show/6177597264?utm_medium=api&utm_source=rss) by Evan Wright (⭐️4.25)
+- [Day Million](https://www.goodreads.com/review/show/5074756434?utm_medium=api&utm_source=rss) by Frederik Pohl (⭐️3.41)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
