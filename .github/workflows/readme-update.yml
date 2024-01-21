@@ -12,7 +12,7 @@ jobs:
       - uses: zwacky/goodreads-profile-workflow@main
         with:
           goodreads_user_id: "29398258"
-          template: "- ($published_year) [$title]($url) by $author (⭐️$average_rating)"
+          template: "- [$title]($url) by $author (⭐️$average_rating)"
           sort_by_fields: "<user_date_added"
       - uses: sarisia/actions-readme-feed@v1
         id: feed
