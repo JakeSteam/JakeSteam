@@ -12,7 +12,7 @@ jobs:
       - uses: zwacky/goodreads-profile-workflow@main
         with:
           goodreads_user_id: "29398258"
-          template: "- [$title ($published_year)]($url) by $author (⭐️$average_rating)"
+          template: "- ($published_year) [$title]($url) by $author (⭐️$average_rating)"
           sort_by_fields: "<user_date_added"
       - uses: sarisia/actions-readme-feed@v1
         id: feed
@@ -24,7 +24,6 @@ jobs:
             https://blog.jakelee.co.uk/feed.xml
             https://history.jakelee.co.uk/feed.xml
             https://minima.jakelee.co.uk/feed.xml
-            https://fiction.jakelee.co.uk/feed.xml
             https://fragments.jakelee.co.uk/feed.xml
             https://jakelee.co.uk/feed.xml
             https://news.codecured.org/feed.xml
