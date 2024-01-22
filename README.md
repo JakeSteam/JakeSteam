@@ -21,6 +21,6 @@ My current big projects are:
 - [Collapse: The Fall of the Soviet Union](https://www.goodreads.com/review/show/4630812022?utm_medium=api&utm_source=rss) by Vladislav M. Zubok (⭐️4.27)
 - [The Last Man](https://www.goodreads.com/review/show/5625209475?utm_medium=api&utm_source=rss) by Mary Wollstonecraft Shelley (⭐️3.38)
 - [A Brief History of Everyone Who Ever Lived: The Stories in Our Genes](https://www.goodreads.com/review/show/5590902774?utm_medium=api&utm_source=rss) by Adam Rutherford (⭐️4.02)
-- [Day Million](https://www.goodreads.com/review/show/5074756434?utm_medium=api&utm_source=rss) by Frederik Pohl (⭐️3.41)
+- [Use of Weapons (Culture, #3)](https://www.goodreads.com/review/show/6193704395?utm_medium=api&utm_source=rss) by Iain M. Banks (⭐️4.18)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
