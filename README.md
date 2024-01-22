@@ -18,9 +18,9 @@ My current big projects are:
 
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
-- () [Collapse: The Fall of the Soviet Union](https://www.goodreads.com/review/show/4630812022?utm_medium=api&utm_source=rss) by Vladislav M. Zubok (⭐️4.26)
-- (1826) [The Last Man](https://www.goodreads.com/review/show/5625209475?utm_medium=api&utm_source=rss) by Mary Wollstonecraft Shelley (⭐️3.38)
-- (2016) [A Brief History of Everyone Who Ever Lived: The Stories in Our Genes](https://www.goodreads.com/review/show/5590902774?utm_medium=api&utm_source=rss) by Adam Rutherford (⭐️4.02)
-- (1970) [Day Million](https://www.goodreads.com/review/show/5074756434?utm_medium=api&utm_source=rss) by Frederik Pohl (⭐️3.41)
+- [Collapse: The Fall of the Soviet Union](https://www.goodreads.com/review/show/4630812022?utm_medium=api&utm_source=rss) by Vladislav M. Zubok (⭐️4.26)
+- [The Last Man](https://www.goodreads.com/review/show/5625209475?utm_medium=api&utm_source=rss) by Mary Wollstonecraft Shelley (⭐️3.38)
+- [A Brief History of Everyone Who Ever Lived: The Stories in Our Genes](https://www.goodreads.com/review/show/5590902774?utm_medium=api&utm_source=rss) by Adam Rutherford (⭐️4.02)
+- [Day Million](https://www.goodreads.com/review/show/5074756434?utm_medium=api&utm_source=rss) by Frederik Pohl (⭐️3.41)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
