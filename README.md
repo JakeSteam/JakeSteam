@@ -2,9 +2,7 @@
 
 I work as a Staff Android Engineer at 🐸[Seatfrog](https://seatfrog.com/)🐸, and do open source web-y / writing-y things in my spare time. 
 
-My current big projects are:
-* ⚛️ Finally learning modern web dev ([React](https://react.dev/) / [Next.js](https://nextjs.org/) / [Tailwind](https://tailwindcss.com/) / [Typescript](https://www.typescriptlang.org/)).
-* 🕴️ [BountyHour.com](https://bountyhour.com), a microcontracting marketplace.
+My current big project is [BountyHour.com](https://bountyhour.com), a microcontracting marketplace *([Next.js](https://nextjs.org/) / [Prisma](https://www.prisma.io/) / [TypeScript](https://www.typescriptlang.org/) / [Vercel](https://vercel.com/))*
 
 ## Latest Articles
 <!-- feed start -->
