@@ -19,6 +19,6 @@ My current big project is [BountyHour.com](https://bountyhour.com) *(Stack: [Nex
 - [Collapse: The Fall of the Soviet Union](https://www.goodreads.com/review/show/4630812022?utm_medium=api&utm_source=rss) by Vladislav M. Zubok (⭐️4.26)
 - [The Last Man](https://www.goodreads.com/review/show/5625209475?utm_medium=api&utm_source=rss) by Mary Wollstonecraft Shelley (⭐️3.38)
 - [Use of Weapons (Culture, #3)](https://www.goodreads.com/review/show/6193704395?utm_medium=api&utm_source=rss) by Iain M. Banks (⭐️4.18)
-- [Glutton: The Multi-Course Life of a Very Greedy Boy](https://www.goodreads.com/review/show/6221722083?utm_medium=api&utm_source=rss) by Ed Gamble (⭐️3.89)
+- [Glutton: The Multi-Course Life of a Very Greedy Boy](https://www.goodreads.com/review/show/6221722083?utm_medium=api&utm_source=rss) by Ed Gamble (⭐️3.9)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
