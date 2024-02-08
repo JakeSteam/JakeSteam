@@ -18,7 +18,7 @@ My current unfinished project is [BountyHour.com](https://bountyhour.com) *(Stac
 <!-- GOODREADS-LIST:START -->
 - [Collapse: The Fall of the Soviet Union](https://www.goodreads.com/review/show/4630812022?utm_medium=api&utm_source=rss) by Vladislav M. Zubok (⭐️4.26)
 - [The Last Man](https://www.goodreads.com/review/show/5625209475?utm_medium=api&utm_source=rss) by Mary Wollstonecraft Shelley (⭐️3.38)
-- [Glutton: The Multi-Course Life of a Very Greedy Boy](https://www.goodreads.com/review/show/6221722083?utm_medium=api&utm_source=rss) by Ed Gamble (⭐️3.9)
+- [Glutton: The Multi-Course Life of a Very Greedy Boy](https://www.goodreads.com/review/show/6221722083?utm_medium=api&utm_source=rss) by Ed Gamble (⭐️3.89)
 - [Legion](https://www.goodreads.com/review/show/5843572077?utm_medium=api&utm_source=rss) by William Peter Blatty (⭐️3.72)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
