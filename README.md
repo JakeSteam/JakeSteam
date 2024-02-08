@@ -6,11 +6,11 @@ My current unfinished project is [BountyHour.com](https://bountyhour.com) *(Stac
 
 ## Latest Articles
 <!-- feed start -->
+- 7 February - [3 Android games I’ve enjoyed lately: Puzzlerama, Wordathlon, Grimoire 📲](http://jakelee.co.uk/android-game-reviews-feb24/)
 - 23 January - [Memetic insight: how the government tracks you via emojis](http://fragments.jakelee.co.uk/memetic-insight/)
 - 19 January - [Playing Idle Iktah as a level 3 no-combat skiller ☮️](http://jakelee.co.uk/idle-iktah-level-3-skiller-tips/)
 - 16 January - [Reviewing ALL 75+ Steam games from the Yogscast’s 2023 Jingle Jam charity bundle (part 3 of 3)](http://jakelee.co.uk/reviewing-every-jingle-jam-2023-game-3/)
 - 15 January - [How to increment a project’s version code automatically after a GitHub release using GitHub Actions](http://blog.jakelee.co.uk/incrementing-version-automatically-after-release/)
-- 10 January - [3 Android games I’ve enjoyed lately: Riddle Zen, Smashing Simulator, Idle Game 1 📲](http://jakelee.co.uk/android-game-reviews-dec23/)
 <!-- feed end -->
 *[Substack](https://jakeweeklee.substack.com)*
 
