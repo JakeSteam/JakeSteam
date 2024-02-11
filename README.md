@@ -20,6 +20,6 @@ My current unfinished project is [BountyHour.com](https://bountyhour.com) *(Stac
 - [The Last Man](https://www.goodreads.com/review/show/5625209475?utm_medium=api&utm_source=rss) by Mary Wollstonecraft Shelley (⭐️3.38)
 - [Glutton: The Multi-Course Life of a Very Greedy Boy](https://www.goodreads.com/review/show/6221722083?utm_medium=api&utm_source=rss) by Ed Gamble (⭐️3.89)
 - [Legion](https://www.goodreads.com/review/show/5843572077?utm_medium=api&utm_source=rss) by William Peter Blatty (⭐️3.72)
-- [Beowulf](https://www.goodreads.com/review/show/6209446812?utm_medium=api&utm_source=rss) by Seamus Heaney (⭐️3.45)
+- [Comedy Comedy Comedy Drama](https://www.goodreads.com/review/show/6231083394?utm_medium=api&utm_source=rss) by Bob   Odenkirk (⭐️3.59)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
