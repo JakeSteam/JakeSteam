@@ -18,7 +18,7 @@ My current project (unreleased) is [BountyHour.com](https://bountyhour.com) *(St
 <!-- GOODREADS-LIST:START -->
 - [Collapse: The Fall of the Soviet Union](https://www.goodreads.com/review/show/4630812022?utm_medium=api&utm_source=rss) by Vladislav M. Zubok (⭐️4.26)
 - [The Last Man](https://www.goodreads.com/review/show/5625209475?utm_medium=api&utm_source=rss) by Mary Wollstonecraft Shelley (⭐️3.38)
-- [Glutton: The Multi-Course Life of a Very Greedy Boy](https://www.goodreads.com/review/show/6221722083?utm_medium=api&utm_source=rss) by Ed Gamble (⭐️3.89)
+- [Glutton: The Multi-Course Life of a Very Greedy Boy](https://www.goodreads.com/review/show/6221722083?utm_medium=api&utm_source=rss) by Ed Gamble (⭐️3.88)
 - [Legion](https://www.goodreads.com/review/show/5843572077?utm_medium=api&utm_source=rss) by William Peter Blatty (⭐️3.72)
 - [Comedy Comedy Comedy Drama](https://www.goodreads.com/review/show/6231083394?utm_medium=api&utm_source=rss) by Bob   Odenkirk (⭐️3.59)
 <!-- GOODREADS-LIST:END -->
