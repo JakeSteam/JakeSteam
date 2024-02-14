@@ -20,5 +20,6 @@ My current project (unreleased) is [BountyHour.com](https://bountyhour.com) *(St
 - [The Last Man](https://www.goodreads.com/review/show/5625209475?utm_medium=api&utm_source=rss) by Mary Wollstonecraft Shelley (⭐️3.38)
 - [Comedy Comedy Comedy Drama](https://www.goodreads.com/review/show/6231083394?utm_medium=api&utm_source=rss) by Bob   Odenkirk (⭐️3.59)
 - [Alibaba's World: How a Remarkable Chinese Company is Changing the Face of Global Business](https://www.goodreads.com/review/show/5609047035?utm_medium=api&utm_source=rss) by Porter Erisman (⭐️3.89)
+- [The Book That No One Wanted to Read](https://www.goodreads.com/review/show/6262705358?utm_medium=api&utm_source=rss) by Richard Ayoade (⭐️3.71)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
