@@ -20,6 +20,6 @@ My current project (unreleased) is [BountyHour.com](https://bountyhour.com) *(St
 - [The Last Man](https://www.goodreads.com/review/show/5625209475?utm_medium=api&utm_source=rss) by Mary Wollstonecraft Shelley (⭐️3.38)
 - [Comedy Comedy Comedy Drama](https://www.goodreads.com/review/show/6231083394?utm_medium=api&utm_source=rss) by Bob   Odenkirk (⭐️3.59)
 - [Alibaba's World: How a Remarkable Chinese Company is Changing the Face of Global Business](https://www.goodreads.com/review/show/5609047035?utm_medium=api&utm_source=rss) by Porter Erisman (⭐️3.89)
-- [The Fall of the House of Usher](https://www.goodreads.com/review/show/6263036395?utm_medium=api&utm_source=rss) by Edgar Allan Poe (⭐️3.92)
+- [Egghead; or, You Can't Survive on Ideas Alone](https://www.goodreads.com/review/show/6265949881?utm_medium=api&utm_source=rss) by Bo Burnham (⭐️4.04)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
