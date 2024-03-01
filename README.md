@@ -19,6 +19,6 @@ My current project (unreleased) is [BountyHour.com](https://bountyhour.com) *(St
 - [Collapse: The Fall of the Soviet Union](https://www.goodreads.com/review/show/4630812022?utm_medium=api&utm_source=rss) by Vladislav M. Zubok (⭐️4.26)
 - [The Last Man](https://www.goodreads.com/review/show/5625209475?utm_medium=api&utm_source=rss) by Mary Wollstonecraft Shelley (⭐️3.38)
 - [The Rise and Reign of the Mammals: A New History, from the Shadow of the Dinosaurs to Us](https://www.goodreads.com/review/show/6282580167?utm_medium=api&utm_source=rss) by Steve Brusatte (⭐️4.36)
-- [The Importance of Being Earnest](https://www.goodreads.com/review/show/6300903465?utm_medium=api&utm_source=rss) by Oscar Wilde (⭐️4.17)
+- [The Terror](https://www.goodreads.com/review/show/6306373661?utm_medium=api&utm_source=rss) by Dan Simmons (⭐️4.05)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
