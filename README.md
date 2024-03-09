@@ -6,11 +6,11 @@ My current project (unreleased) is [BountyHour.com](https://bountyhour.com) *(St
 
 ## Latest Articles
 <!-- feed start -->
+- 8 March - [Open sourcing LEGO Junkbot, and tips for Macromedia/Adobe Director asset extracting 🕵️](http://blog.jakelee.co.uk/lego-junkbot-files-and-director-tips/)
 - 4 March - [How to decompile an Adobe Director DCR file](http://blog.jakelee.co.uk/decompiling-adobe-director-files/)
 - 3 March - [minimaJake v1.0.11 release notes](http://minima.jakelee.co.uk/v1.0.11/)
 - 25 February - [3 Android games I’ve enjoyed lately: Sorcery School, King’s Landing, Tile Collector 📲](http://jakelee.co.uk/android-games-march-2024/)
 - 17 February - [Want to look ridiculous in Forza Horizon 5? Here’s 18 comedy cars, 3 outfits, and 4 livery ideas! 🚗🤡](http://jakelee.co.uk/forza-horizon-5-comedy-cars/)
-- 12 February - [Opinionated guidance defeats decision paralysis: How Google and T3 help jumpstart a new developer’s learning](http://blog.jakelee.co.uk/decision-paralysis-and-opinionated-guidance/)
 <!-- feed end -->
 *[Substack](https://jakeweeklee.substack.com)*
 
