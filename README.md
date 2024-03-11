@@ -16,9 +16,9 @@ My current project (unreleased) is [BountyHour.com](https://bountyhour.com) *(St
 
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
-- [Collapse: The Fall of the Soviet Union](https://www.goodreads.com/review/show/4630812022?utm_medium=api&utm_source=rss) by Vladislav M. Zubok (⭐️4.26)
 - [The Last Man](https://www.goodreads.com/review/show/5625209475?utm_medium=api&utm_source=rss) by Mary Wollstonecraft Shelley (⭐️3.38)
 - [The Rise and Reign of the Mammals: A New History, from the Shadow of the Dinosaurs to Us](https://www.goodreads.com/review/show/6282580167?utm_medium=api&utm_source=rss) by Steve Brusatte (⭐️4.36)
 - [The Terror](https://www.goodreads.com/review/show/6306373661?utm_medium=api&utm_source=rss) by Dan Simmons (⭐️4.05)
+- [An Anthropologist on Mars: Seven Paradoxical Tales](https://www.goodreads.com/review/show/5640132005?utm_medium=api&utm_source=rss) by Oliver Sacks (⭐️4.16)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
