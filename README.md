@@ -7,10 +7,10 @@ My current project (unreleased) is [BountyHour.com](https://bountyhour.com) *(St
 ## Latest Articles
 <!-- feed start -->
 - 14 March - [How to add a new programming language to GitHub: an introduction to Linguist 🔡](http://blog.jakelee.co.uk/adding-github-language-with-linguist/)
+- 14 March - [minimaJake v1.0.12 release notes](http://minima.jakelee.co.uk/v1.0.12/)
 - 8 March - [Open sourcing LEGO Junkbot, and tips for Macromedia/Adobe Director asset extracting 🕵️](http://blog.jakelee.co.uk/lego-junkbot-files-and-director-tips/)
 - 4 March - [How to decompile an Adobe Director DCR file](http://blog.jakelee.co.uk/decompiling-adobe-director-files/)
 - 3 March - [minimaJake v1.0.11 release notes](http://minima.jakelee.co.uk/v1.0.11/)
-- 25 February - [3 Android games I’ve enjoyed lately: Sorcery School, King’s Landing, Tile Collector 📲](http://jakelee.co.uk/android-games-march-2024/)
 <!-- feed end -->
 *[Substack](https://jakeweeklee.substack.com)*
 
