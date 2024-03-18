@@ -18,7 +18,7 @@ My current project (unreleased) is [BountyHour.com](https://bountyhour.com) *(St
 <!-- GOODREADS-LIST:START -->
 - [The Last Man](https://www.goodreads.com/review/show/5625209475?utm_medium=api&utm_source=rss) by Mary Wollstonecraft Shelley (⭐️3.38)
 - [The Rise and Reign of the Mammals: A New History, from the Shadow of the Dinosaurs to Us](https://www.goodreads.com/review/show/6282580167?utm_medium=api&utm_source=rss) by Steve Brusatte (⭐️4.36)
-- [An Anthropologist on Mars: Seven Paradoxical Tales](https://www.goodreads.com/review/show/5640132005?utm_medium=api&utm_source=rss) by Oliver Sacks (⭐️4.16)
 - [Excession (Culture, #5)](https://www.goodreads.com/review/show/6344685195?utm_medium=api&utm_source=rss) by Iain M. Banks (⭐️4.2)
+- [We Keep the Dead Close: A Murder at Harvard and a Half Century of Silence](https://www.goodreads.com/review/show/4630812393?utm_medium=api&utm_source=rss) by Becky Cooper (⭐️3.73)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
