@@ -18,7 +18,7 @@ jobs:
         id: feed
         with:
           file: 'README.md'
-          format: '- ${day} ${monthlong} - [${title}](${url})'
+          format: '- ${day} ${monthlong} - [${title}](${guid})'
           timezone: 'Europe/London'
           url: |
             https://blog.jakelee.co.uk/feed.xml
