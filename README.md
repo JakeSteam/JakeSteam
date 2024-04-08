@@ -16,7 +16,7 @@ My current project (unreleased) is [BountyHour.com](https://bountyhour.com) *(St
 
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
-- [The Last Man](https://www.goodreads.com/review/show/5625209475?utm_medium=api&utm_source=rss) by Mary Wollstonecraft Shelley (⭐️3.37)
+- [The Last Man](https://www.goodreads.com/review/show/5625209475?utm_medium=api&utm_source=rss) by Mary Wollstonecraft Shelley (⭐️3.38)
 - [The Rise and Reign of the Mammals: A New History, from the Shadow of the Dinosaurs to Us](https://www.goodreads.com/review/show/6282580167?utm_medium=api&utm_source=rss) by Steve Brusatte (⭐️4.36)
 - [We Keep the Dead Close: A Murder at Harvard and a Half Century of Silence](https://www.goodreads.com/review/show/4630812393?utm_medium=api&utm_source=rss) by Becky Cooper (⭐️3.73)
 - [Life Inc.: How the World Became a Corporation and How to Take it Back](https://www.goodreads.com/review/show/4929643188?utm_medium=api&utm_source=rss) by Douglas Rushkoff (⭐️3.94)
