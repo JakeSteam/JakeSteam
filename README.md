@@ -17,9 +17,9 @@ My current project (unreleased) is [BountyHour.com](https://bountyhour.com) *(St
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
 - [The Last Man](https://www.goodreads.com/review/show/5625209475?utm_medium=api&utm_source=rss) by Mary Wollstonecraft Shelley (⭐️3.38)
-- [We Keep the Dead Close: A Murder at Harvard and a Half Century of Silence](https://www.goodreads.com/review/show/4630812393?utm_medium=api&utm_source=rss) by Becky Cooper (⭐️3.73)
 - [Life Inc.: How the World Became a Corporation and How to Take it Back](https://www.goodreads.com/review/show/4929643188?utm_medium=api&utm_source=rss) by Douglas Rushkoff (⭐️3.94)
 - [All the Pieces Matter: The Inside Story of The Wire](https://www.goodreads.com/review/show/3906682809?utm_medium=api&utm_source=rss) by Jonathan Abrams (⭐️4.29)
 - [Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster](https://www.goodreads.com/review/show/6420262350?utm_medium=api&utm_source=rss) by Adam Higginbotham (⭐️4.35)
+- [Letter from the Birmingham Jail](https://www.goodreads.com/review/show/6422783822?utm_medium=api&utm_source=rss) by Martin Luther King Jr. (⭐️4.71)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
