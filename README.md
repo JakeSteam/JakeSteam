@@ -19,5 +19,6 @@ My current project (unreleased) is [BountyHour.com](https://bountyhour.com) *(St
 - [The Last Man](https://www.goodreads.com/review/show/5625209475?utm_medium=api&utm_source=rss) by Mary Wollstonecraft Shelley (⭐️3.38)
 - [Life Inc.: How the World Became a Corporation and How to Take it Back](https://www.goodreads.com/review/show/4929643188?utm_medium=api&utm_source=rss) by Douglas Rushkoff (⭐️3.94)
 - [Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster](https://www.goodreads.com/review/show/6420262350?utm_medium=api&utm_source=rss) by Adam Higginbotham (⭐️4.35)
+- [The Custard Heart](https://www.goodreads.com/review/show/6433688610?utm_medium=api&utm_source=rss) by Dorothy Parker (⭐️3.69)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
