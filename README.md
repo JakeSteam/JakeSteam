@@ -22,5 +22,6 @@ I'm working on (unreleased):
 - [Life Inc.: How the World Became a Corporation and How to Take it Back](https://www.goodreads.com/review/show/4929643188?utm_medium=api&utm_source=rss) by Douglas Rushkoff (⭐️3.94)
 - [Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster](https://www.goodreads.com/review/show/6420262350?utm_medium=api&utm_source=rss) by Adam Higginbotham (⭐️4.35)
 - [Three Japanese Short Stories](https://www.goodreads.com/review/show/6487639170?utm_medium=api&utm_source=rss) by Ryūnosuke Akutagawa (⭐️3.28)
+- [The Ferryman](https://www.goodreads.com/review/show/6549824296?utm_medium=api&utm_source=rss) by Justin Cronin (⭐️3.86)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
