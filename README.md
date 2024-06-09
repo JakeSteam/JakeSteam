@@ -23,5 +23,6 @@ I'm working on (unreleased):
 - [Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster](https://www.goodreads.com/review/show/6420262350?utm_medium=api&utm_source=rss) by Adam Higginbotham (⭐️4.35)
 - [Three Japanese Short Stories](https://www.goodreads.com/review/show/6487639170?utm_medium=api&utm_source=rss) by Ryūnosuke Akutagawa (⭐️3.28)
 - [The Ferryman](https://www.goodreads.com/review/show/6549824296?utm_medium=api&utm_source=rss) by Justin Cronin (⭐️3.86)
+- [Abandoned in Place: Preserving America’s Space History](https://www.goodreads.com/review/show/6570013226?utm_medium=api&utm_source=rss) by Roland Miller (⭐️4.37)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
