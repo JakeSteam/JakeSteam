@@ -21,7 +21,7 @@ I'm working on (unreleased):
 - [The Last Man](https://www.goodreads.com/review/show/5625209475?utm_medium=api&utm_source=rss) by Mary Wollstonecraft Shelley (⭐️3.37)
 - [Life Inc.: How the World Became a Corporation and How to Take it Back](https://www.goodreads.com/review/show/4929643188?utm_medium=api&utm_source=rss) by Douglas Rushkoff (⭐️3.95)
 - [Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster](https://www.goodreads.com/review/show/6420262350?utm_medium=api&utm_source=rss) by Adam Higginbotham (⭐️4.35)
-- [You Like It Darker](https://www.goodreads.com/review/show/6597000922?utm_medium=api&utm_source=rss) by Stephen King (⭐️4.31)
 - [The Mule&apos;s Foal](https://www.goodreads.com/review/show/6623616218?utm_medium=api&utm_source=rss) by Fontini Epanomitis (⭐️3.85)
+- [Seeing](https://www.goodreads.com/review/show/6627749487?utm_medium=api&utm_source=rss) by José Saramago (⭐️3.77)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
