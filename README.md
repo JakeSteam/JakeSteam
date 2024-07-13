@@ -8,11 +8,11 @@ I'm working on (unreleased):
 
 ## Latest Articles
 <!-- feed start -->
+- 12 July - [Android games I’ve played in July! Honey Bee Park, Numito, Merge Mend 🐝](https://jakelee.co.uk/android-games-july-2024/)
 - 5 June - [3 Android games I’ve enjoyed lately: Word Salad, Meganum, Bumbling Cats](https://jakelee.co.uk/android-games-june-2024/)
 - 26 May - [How to bulk export your Android app’s reviews into a Google Sheet for analysis](https://blog.jakelee.co.uk/exporting-google-play-reviews-to-google-sheets/)
 - 30 April - [3 Android games I’ve enjoyed lately: Office Cat, Close Cities, Knotwords 🐈](https://jakelee.co.uk/android-games-late-april-2024/)
 - 16 April - [Reviewing Postman’s API Fundamentals Student Expert certification](https://blog.jakelee.co.uk/postman-api-fundamentals-review/)
-- 13 April - [minimaJake v1.0.14 release notes](https://minima.jakelee.co.uk/v1.0.14/)
 <!-- feed end -->
 *[Substack](https://jakeweeklee.substack.com)*
 
