@@ -21,6 +21,6 @@ I'm working on (unreleased):
 - [The Last Man](https://www.goodreads.com/review/show/5625209475?utm_medium=api&utm_source=rss) by Mary Wollstonecraft Shelley (⭐️3.37)
 - [Life Inc.: How the World Became a Corporation and How to Take it Back](https://www.goodreads.com/review/show/4929643188?utm_medium=api&utm_source=rss) by Douglas Rushkoff (⭐️3.95)
 - [Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster](https://www.goodreads.com/review/show/6420262350?utm_medium=api&utm_source=rss) by Adam Higginbotham (⭐️4.35)
-- [Schott&apos;s Original Miscellany](https://www.goodreads.com/review/show/6570024439?utm_medium=api&utm_source=rss) by Ben Schott (⭐️4.11)
+- [Sixty Stories](https://www.goodreads.com/review/show/6494909084?utm_medium=api&utm_source=rss) by Donald Barthelme (⭐️4.2)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
