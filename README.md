@@ -8,11 +8,11 @@ I'm working on (unreleased):
 
 ## Latest Articles
 <!-- feed start -->
+- 19 July - [Netflix has Android games, and they’re actually good!? Reviews of Dragon Up, Krispee Street, Word Trails 📺](https://jakelee.co.uk/android-games-netflix/)
 - 12 July - [Android games I’ve played in July! Honey Bee Park, Numito, Merge Mend 🐝](https://jakelee.co.uk/android-games-july-2024/)
 - 5 June - [3 Android games I’ve enjoyed lately: Word Salad, Meganum, Bumbling Cats](https://jakelee.co.uk/android-games-june-2024/)
 - 26 May - [How to bulk export your Android app’s reviews into a Google Sheet for analysis](https://blog.jakelee.co.uk/exporting-google-play-reviews-to-google-sheets/)
 - 30 April - [3 Android games I’ve enjoyed lately: Office Cat, Close Cities, Knotwords 🐈](https://jakelee.co.uk/android-games-late-april-2024/)
-- 16 April - [Reviewing Postman’s API Fundamentals Student Expert certification](https://blog.jakelee.co.uk/postman-api-fundamentals-review/)
 <!-- feed end -->
 *[Substack](https://jakeweeklee.substack.com)*
 
