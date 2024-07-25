@@ -22,5 +22,6 @@ I'm working on (unreleased):
 - [Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster](https://www.goodreads.com/review/show/6420262350?utm_medium=api&utm_source=rss) by Adam Higginbotham (⭐️4.35)
 - [Sixty Stories](https://www.goodreads.com/review/show/6494909084?utm_medium=api&utm_source=rss) by Donald Barthelme (⭐️4.2)
 - [A Little Life](https://www.goodreads.com/review/show/6687295779?utm_medium=api&utm_source=rss) by Hanya Yanagihara (⭐️4.31)
+- [Cigars of the Pharaoh (Tintin #4)](https://www.goodreads.com/review/show/6700506318?utm_medium=api&utm_source=rss) by Hergé (⭐️4.09)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
