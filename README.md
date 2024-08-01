@@ -8,11 +8,11 @@ I'm working on (unreleased):
 
 ## Latest Articles
 <!-- feed start -->
+- 1 August - [Ten years in tech: 7 career lessons from my decade in software development 🐸](https://blog.jakelee.co.uk/7-lessons-from-a-decade-in-tech/)
+- 31 July - [Introducing a PLATO character overwriting emulator](https://blog.jakelee.co.uk/plato-character-overwrite-emulator/)
 - 26 July - [How to make cutouts or transparent sections in Jetpack Compose](https://blog.jakelee.co.uk/how-to-make-cutouts-in-jetpack-compose-boxes/)
 - 19 July - [Netflix has Android games, and they’re actually good!? Reviews of Dragon Up, Krispee Street, Word Trails 📺](https://jakelee.co.uk/android-games-netflix/)
 - 12 July - [Android games I’ve played in July! Honey Bee Park, Numito, Merge Mend 🐝](https://jakelee.co.uk/android-games-july-2024/)
-- 5 June - [3 Android games I’ve enjoyed lately: Word Salad, Meganum, Bumbling Cats](https://jakelee.co.uk/android-games-june-2024/)
-- 26 May - [How to bulk export your Android app’s reviews into a Google Sheet for analysis](https://blog.jakelee.co.uk/exporting-google-play-reviews-to-google-sheets/)
 <!-- feed end -->
 *[Substack](https://jakeweeklee.substack.com)*
 
