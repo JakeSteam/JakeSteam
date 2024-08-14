@@ -8,11 +8,11 @@ I'm working on (unreleased):
 
 ## Latest Articles
 <!-- feed start -->
+- 13 August - [Android games I’ve enjoyed playing in August! Earth Inc, Pinball Masters, Bowling Ballers 🌍](https://jakelee.co.uk/android-games-august-2024/)
 - 9 August - [23 years ago today, LEGO’s Junkbot game was released, one of the most popular LEGO.com games of all time 🤖🧱](https://history.jakelee.co.uk/lego-junkbot-technical-and-historical-decompiling/)
 - 1 August - [Ten years in tech: 7 career lessons from my decade in software development 🐸](https://blog.jakelee.co.uk/7-lessons-from-a-decade-in-tech/)
 - 31 July - [Introducing a PLATO character overwriting emulator](https://blog.jakelee.co.uk/plato-character-overwrite-emulator/)
 - 26 July - [How to make cutouts or transparent sections in Jetpack Compose](https://blog.jakelee.co.uk/how-to-make-cutouts-in-jetpack-compose-boxes/)
-- 19 July - [Netflix has Android games, and they’re actually good!? Reviews of Dragon Up, Krispee Street, Word Trails 📺](https://jakelee.co.uk/android-games-netflix/)
 <!-- feed end -->
 *[Substack](https://jakeweeklee.substack.com)*
 
