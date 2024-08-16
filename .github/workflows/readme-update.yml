@@ -9,12 +9,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: zwacky/goodreads-profile-workflow@main
+      - uses: zwacky/goodreads-profile-workflow@a1b8b48b991987cb356422d51fcc91a81a2b6e26 # v1.2.4
         with:
           goodreads_user_id: "29398258"
           template: "- [$title]($url) by $author (⭐️$average_rating)"
           sort_by_fields: "<user_date_added"
-      - uses: sarisia/actions-readme-feed@v1
+      - uses: sarisia/actions-readme-feed@bdde7fdb36e19b030b77cf1f7b7f09db68219f32 # v1.10.1
         id: feed
         with:
           file: 'README.md'
@@ -28,7 +28,7 @@ jobs:
             https://jakelee.co.uk/feed.xml
             https://news.codecured.org/feed.xml
       - if: ${{ steps.feed.outputs.changed == true }}
-        uses: sarisia/actions-commit@master
+        uses: sarisia/actions-commit@266e3281638e11cf0101ae9c3e893e8abfc6fda1 # latest as of 2024-08-16
         with:
           name: GitHub Actions
           email: actions@github.com
