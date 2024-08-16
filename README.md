@@ -22,5 +22,6 @@ I'm working on (unreleased):
 - [Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster](https://www.goodreads.com/review/show/6420262350?utm_medium=api&utm_source=rss) by Adam Higginbotham (⭐️4.35)
 - [Sixty Stories](https://www.goodreads.com/review/show/6494909084?utm_medium=api&utm_source=rss) by Donald Barthelme (⭐️4.2)
 - [Everything Must Go: Why We Are Obsessed With The End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.21)
+- [Black Edge: Inside Information, Dirty Money, and the Quest to Bring Down the Most Wanted Man on Wall Street](https://www.goodreads.com/review/show/4042218337?utm_medium=api&utm_source=rss) by Sheelah Kolhatkar (⭐️4.16)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
