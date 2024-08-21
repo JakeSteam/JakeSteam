@@ -20,7 +20,7 @@ I'm working on (unreleased):
 <!-- GOODREADS-LIST:START -->
 - [Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster](https://www.goodreads.com/review/show/6420262350?utm_medium=api&utm_source=rss) by Adam Higginbotham (⭐️4.35)
 - [Everything Must Go: The Stories We Tell About the End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.18)
-- [Black Edge: Inside Information, Dirty Money, and the Quest to Bring Down the Most Wanted Man on Wall Street](https://www.goodreads.com/review/show/4042218337?utm_medium=api&utm_source=rss) by Sheelah Kolhatkar (⭐️4.16)
 - [Sapiens: A Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3615470825?utm_medium=api&utm_source=rss) by David Vandermeulen (⭐️4.39)
+- [The Trials of Koli (Rampart Trilogy, #2)](https://www.goodreads.com/review/show/6777868818?utm_medium=api&utm_source=rss) by M.R. Carey (⭐️4.23)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
