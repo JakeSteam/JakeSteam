@@ -21,6 +21,6 @@ I'm working on (unreleased):
 - [Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster](https://www.goodreads.com/review/show/6420262350?utm_medium=api&utm_source=rss) by Adam Higginbotham (⭐️4.35)
 - [Everything Must Go: The Stories We Tell About the End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.13)
 - [The Fall of Koli (Rampart Trilogy, #3)](https://www.goodreads.com/review/show/6786312810?utm_medium=api&utm_source=rss) by M.R. Carey (⭐️4.36)
-- [Notes on Nationalism](https://www.goodreads.com/review/show/6789856901?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.01)
+- [The Legend of the Sleepers (Penguin Modern)](https://www.goodreads.com/review/show/6790162216?utm_medium=api&utm_source=rss) by Danilo Kiš (⭐️2.93)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
