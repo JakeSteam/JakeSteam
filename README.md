@@ -19,8 +19,8 @@ I'm working on (unreleased):
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
 - [Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster](https://www.goodreads.com/review/show/6420262350?utm_medium=api&utm_source=rss) by Adam Higginbotham (⭐️4.35)
-- [Everything Must Go: The Stories We Tell About the End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.13)
+- [Everything Must Go: The Stories We Tell About the End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.15)
 - [The Fall of Koli (Rampart Trilogy, #3)](https://www.goodreads.com/review/show/6786312810?utm_medium=api&utm_source=rss) by M.R. Carey (⭐️4.36)
-- [Till September Petronella](https://www.goodreads.com/review/show/6796544082?utm_medium=api&utm_source=rss) by Jean Rhys (⭐️3.39)
+- [Investigations of a Dog](https://www.goodreads.com/review/show/6797508136?utm_medium=api&utm_source=rss) by Franz Kafka (⭐️3.2)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
