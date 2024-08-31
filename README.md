@@ -21,6 +21,6 @@ I'm working on (unreleased):
 - [Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster](https://www.goodreads.com/review/show/6420262350?utm_medium=api&utm_source=rss) by Adam Higginbotham (⭐️4.35)
 - [Everything Must Go: The Stories We Tell About the End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.15)
 - [The Fall of Koli (Rampart Trilogy, #3)](https://www.goodreads.com/review/show/6786312810?utm_medium=api&utm_source=rss) by M.R. Carey (⭐️4.36)
-- [Daydream and Drunkenness of a Young Lady](https://www.goodreads.com/review/show/6802109805?utm_medium=api&utm_source=rss) by Clarice Lispector (⭐️3.52)
+- [Create Dangerously](https://www.goodreads.com/review/show/6804837562?utm_medium=api&utm_source=rss) by Albert Camus (⭐️3.83)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
