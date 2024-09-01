@@ -21,5 +21,6 @@ I'm working on (unreleased):
 - [Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster](https://www.goodreads.com/review/show/6420262350?utm_medium=api&utm_source=rss) by Adam Higginbotham (⭐️4.35)
 - [Everything Must Go: The Stories We Tell About the End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.15)
 - [Create Dangerously](https://www.goodreads.com/review/show/6804837562?utm_medium=api&utm_source=rss) by Albert Camus (⭐️3.83)
+- [Inversions (Culture, #6)](https://www.goodreads.com/review/show/6808962030?utm_medium=api&utm_source=rss) by Iain M. Banks (⭐️3.93)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
