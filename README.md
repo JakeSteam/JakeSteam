@@ -19,8 +19,9 @@ I'm working on (unreleased):
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
 - [Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster](https://www.goodreads.com/review/show/6420262350?utm_medium=api&utm_source=rss) by Adam Higginbotham (⭐️4.35)
-- [Everything Must Go: The Stories We Tell About the End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.15)
+- [Everything Must Go: The Stories We Tell About the End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.14)
 - [Create Dangerously](https://www.goodreads.com/review/show/6804837562?utm_medium=api&utm_source=rss) by Albert Camus (⭐️3.83)
 - [Inversions (Culture, #6)](https://www.goodreads.com/review/show/6808962030?utm_medium=api&utm_source=rss) by Iain M. Banks (⭐️3.93)
+- [The Distance of the Moon](https://www.goodreads.com/review/show/6810707871?utm_medium=api&utm_source=rss) by Italo Calvino (⭐️3.86)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
