@@ -22,6 +22,6 @@ I'm working on (unreleased):
 - [Everything Must Go: The Stories We Tell About the End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.16)
 - [Inversions (Culture, #6)](https://www.goodreads.com/review/show/6808962030?utm_medium=api&utm_source=rss) by Iain M. Banks (⭐️3.93)
 - [The Distance of the Moon](https://www.goodreads.com/review/show/6810707871?utm_medium=api&utm_source=rss) by Italo Calvino (⭐️3.86)
-- [Driven to Win: An Autobiography](https://www.goodreads.com/review/show/5762077131?utm_medium=api&utm_source=rss) by Nigel Mansell (⭐️3.5)
+- [Homicide: A Year on the Killing Streets](https://www.goodreads.com/review/show/6740438334?utm_medium=api&utm_source=rss) by David Simon (⭐️4.34)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
