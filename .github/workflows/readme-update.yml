@@ -13,7 +13,7 @@ jobs:
         with:
           goodreads_user_id: "29398258"
           template: "- [$title]($url) by $author (⭐️$average_rating)"
-          sort_by_fields: "<user_date_added"
+          sort_by_fields: ">user_date_added"
       - uses: sarisia/actions-readme-feed@bdde7fdb36e19b030b77cf1f7b7f09db68219f32 # v1.10.1
         id: feed
         with:
