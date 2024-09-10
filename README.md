@@ -18,10 +18,10 @@ I'm working on (unreleased):
 
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
-- [Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster](https://www.goodreads.com/review/show/6420262350?utm_medium=api&utm_source=rss) by Adam Higginbotham (⭐️4.35)
-- [Everything Must Go: The Stories We Tell About the End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.15)
-- [The Distance of the Moon](https://www.goodreads.com/review/show/6810707871?utm_medium=api&utm_source=rss) by Italo Calvino (⭐️3.86)
-- [Homicide: A Year on the Killing Streets](https://www.goodreads.com/review/show/6740438334?utm_medium=api&utm_source=rss) by David Simon (⭐️4.34)
 - [Look to Windward (Culture, #7)](https://www.goodreads.com/review/show/6826434549?utm_medium=api&utm_source=rss) by Iain M. Banks (⭐️4.2)
+- [Homicide: A Year on the Killing Streets](https://www.goodreads.com/review/show/6740438334?utm_medium=api&utm_source=rss) by David Simon (⭐️4.34)
+- [The Distance of the Moon](https://www.goodreads.com/review/show/6810707871?utm_medium=api&utm_source=rss) by Italo Calvino (⭐️3.86)
+- [Everything Must Go: The Stories We Tell About the End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.15)
+- [Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster](https://www.goodreads.com/review/show/6420262350?utm_medium=api&utm_source=rss) by Adam Higginbotham (⭐️4.35)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
