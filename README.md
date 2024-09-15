@@ -21,7 +21,7 @@ I'm working on (unreleased):
 - [Here We Go Again...: Unpublished Letters to the Daily Telegraph (Daily Telegraph Letters)](https://www.goodreads.com/review/show/6843617095?utm_medium=api&utm_source=rss) by Kate Moore (⭐️3.69)
 - [Look to Windward (Culture, #7)](https://www.goodreads.com/review/show/6826434549?utm_medium=api&utm_source=rss) by Iain M. Banks (⭐️4.2)
 - [The Distance of the Moon](https://www.goodreads.com/review/show/6810707871?utm_medium=api&utm_source=rss) by Italo Calvino (⭐️3.86)
-- [Everything Must Go: The Stories We Tell About the End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.13)
+- [Everything Must Go: The Stories We Tell About the End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.14)
 - [Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster](https://www.goodreads.com/review/show/6420262350?utm_medium=api&utm_source=rss) by Adam Higginbotham (⭐️4.35)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
