@@ -18,7 +18,6 @@ I'm working on (unreleased):
 
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
-- [Here We Go Again...: Unpublished Letters to the Daily Telegraph (Daily Telegraph Letters)](https://www.goodreads.com/review/show/6843617095?utm_medium=api&utm_source=rss) by Kate Moore (⭐️3.69)
 - [Look to Windward (Culture, #7)](https://www.goodreads.com/review/show/6826434549?utm_medium=api&utm_source=rss) by Iain M. Banks (⭐️4.2)
 - [The Distance of the Moon](https://www.goodreads.com/review/show/6810707871?utm_medium=api&utm_source=rss) by Italo Calvino (⭐️3.86)
 - [Everything Must Go: The Stories We Tell About the End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.14)
