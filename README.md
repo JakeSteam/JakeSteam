@@ -19,7 +19,7 @@ I'm working on (unreleased):
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
 - [Donnie Brasco](https://www.goodreads.com/review/show/6870743044?utm_medium=api&utm_source=rss) by Joseph D. Pistone (⭐️4.07)
-- [All That Remains: A Life in Death](https://www.goodreads.com/review/show/5843567693?utm_medium=api&utm_source=rss) by Sue Black (⭐️4.17)
+- [All That Remains: A Life in Death](https://www.goodreads.com/review/show/5843567693?utm_medium=api&utm_source=rss) by Sue Black (⭐️4.18)
 - [Look to Windward (Culture, #7)](https://www.goodreads.com/review/show/6826434549?utm_medium=api&utm_source=rss) by Iain M. Banks (⭐️4.2)
 - [Everything Must Go: The Stories We Tell About the End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.14)
 - [Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster](https://www.goodreads.com/review/show/6420262350?utm_medium=api&utm_source=rss) by Adam Higginbotham (⭐️4.35)
