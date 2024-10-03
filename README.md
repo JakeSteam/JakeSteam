@@ -20,7 +20,7 @@ I'm working on (unreleased):
 <!-- GOODREADS-LIST:START -->
 - [Matter (Culture, #8)](https://www.goodreads.com/review/show/6896271503?utm_medium=api&utm_source=rss) by Iain M. Banks (⭐️4.08)
 - [All That Remains: A Life in Death](https://www.goodreads.com/review/show/5843567693?utm_medium=api&utm_source=rss) by Sue Black (⭐️4.17)
-- [Everything Must Go: The Stories We Tell About the End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.12)
+- [Everything Must Go: The Stories We Tell About the End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.13)
 - [Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster](https://www.goodreads.com/review/show/6420262350?utm_medium=api&utm_source=rss) by Adam Higginbotham (⭐️4.35)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
