@@ -8,11 +8,11 @@ I'm working on (unreleased):
 
 ## Latest Articles
 <!-- feed start -->
+- 3 October - [4 Android games I enjoyed playing in September! 🟩 Cube farm, 😼 Cat Valley Town, ⛳ Wonderputt Forever, 🌌 Idle Space Soldier](https://jakelee.co.uk/android-games-september-2024/)
 - 10 September - [Notes on Jekyll Builds, Fruit Tree Growing, F1 Aerodynamics, Book Publishing, and Household Electronics](https://jakelee.co.uk/notes-on-jekyll-gardening-f1-etc/)
 - 2 September - [minimaJake v1.0.16 release notes](https://minima.jakelee.co.uk/v1.0.16/)
 - 24 August - [minimaJake v1.0.15 release notes](https://minima.jakelee.co.uk/v1.0.15/)
 - 13 August - [Android games I’ve enjoyed playing in August! Earth Inc, Pinball Masters, Bowling Ballers 🌍](https://jakelee.co.uk/android-games-august-2024/)
-- 9 August - [23 years ago today, LEGO’s Junkbot game was released, one of the most popular LEGO.com games of all time 🤖🧱](https://history.jakelee.co.uk/lego-junkbot-technical-and-historical-decompiling/)
 <!-- feed end -->
 *[Substack](https://jakeweeklee.substack.com)*
 
