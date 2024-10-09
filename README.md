@@ -18,6 +18,7 @@ I'm working on (unreleased):
 
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
+- [You Are What You Watch](https://www.goodreads.com/review/show/6911933820?utm_medium=api&utm_source=rss) by Walter Hickey (⭐️3.72)
 - [Love Triangle: How Trigonometry Shapes the World](https://www.goodreads.com/review/show/6906747462?utm_medium=api&utm_source=rss) by Matt    Parker (⭐️4.08)
 - [Matter (Culture, #8)](https://www.goodreads.com/review/show/6896271503?utm_medium=api&utm_source=rss) by Iain M. Banks (⭐️4.08)
 - [All That Remains: A Life in Death](https://www.goodreads.com/review/show/5843567693?utm_medium=api&utm_source=rss) by Sue Black (⭐️4.17)
