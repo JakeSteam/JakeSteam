@@ -3,8 +3,7 @@
 I work as a Staff Android Engineer at 🐸[Seatfrog](https://seatfrog.com/)🐸, and do open source web-y / writing-y things in my spare time. 
 
 I'm working on (unreleased):
-1. [BountyHour.com](https://bountyhour.com) *(Stack: [Next.js](https://nextjs.org/), [Prisma](https://www.prisma.io/), [TypeScript](https://www.typescriptlang.org/), [Tailwind](https://tailwindcss.com/), [tRPC](https://trpc.io/), [Shadcn UI](https://ui.shadcn.com/))*
-2. [Commit.Email](https://commit.email) *(Stack: [Node.js](https://nodejs.org/en), [TypeScript](https://www.typescriptlang.org/), [Octokit](https://github.com/octokit/octokit.js), [GitHub Apps](https://github.com/marketplace?type=apps))*
+1. [Commit.Email](https://commit.email) *(Stack: [Node.js](https://nodejs.org/en), [TypeScript](https://www.typescriptlang.org/), [Octokit](https://github.com/octokit/octokit.js), [GitHub Apps](https://github.com/marketplace?type=apps))*
 
 ## Latest Articles
 <!-- feed start -->
