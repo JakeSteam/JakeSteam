@@ -16,6 +16,7 @@ I'm working on (unreleased): [Commit.Email](https://commit.email) *(Stack: [Node
 
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
+- [Nuclear War: A Scenario](https://www.goodreads.com/review/show/6934103639?utm_medium=api&utm_source=rss) by Annie Jacobsen (⭐️4.42)
 - [Surface Detail (Culture, #9)](https://www.goodreads.com/review/show/6808967965?utm_medium=api&utm_source=rss) by Iain M. Banks (⭐️4.24)
 - [Love Triangle: How Trigonometry Shapes the World](https://www.goodreads.com/review/show/6906747462?utm_medium=api&utm_source=rss) by Matt    Parker (⭐️4.06)
 - [All That Remains: A Life in Death](https://www.goodreads.com/review/show/5843567693?utm_medium=api&utm_source=rss) by Sue Black (⭐️4.17)
