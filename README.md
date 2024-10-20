@@ -6,11 +6,11 @@ I'm working on (unreleased): [Commit.Email](https://commit.email) *(Stack: [Node
 
 ## Latest Articles
 <!-- feed start -->
+- 19 October - [How to bulk download all past versions of a webpage, parse the data in Python, and save to CSV](https://blog.jakelee.co.uk/bulk-downloading-website-history-and-parsing/)
 - 11 October - [Building a Jekyll / Liquid calendar with custom events](https://blog.jakelee.co.uk/jekyll-calendar-custom-events/)
 - 8 October - [minimaJake v1.1.0 release notes](https://minima.jakelee.co.uk/v1.1.0/)
 - 5 October - [A post-mortem of “BountyHour”, an unfinished microcontracting marketplace using Next.js, tRPC, and Prisma](https://blog.jakelee.co.uk/bountyhour-microcontracting-postmortem/)
 - 3 October - [4 Android games I enjoyed playing in September! 🟩 Cube farm, 😼 Cat Valley Town, ⛳ Wonderputt Forever, 🌌 Idle Space Soldier](https://jakelee.co.uk/android-games-september-2024/)
-- 10 September - [Notes on Jekyll Builds, Fruit Tree Growing, F1 Aerodynamics, Book Publishing, and Household Electronics](https://jakelee.co.uk/notes-on-jekyll-gardening-f1-etc/)
 <!-- feed end -->
 *[Substack](https://jakeweeklee.substack.com)*
 
