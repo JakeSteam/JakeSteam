@@ -16,7 +16,7 @@ I'm working on (unreleased): [Commit.Email](https://commit.email) *(Stack: [Node
 
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
-- [A City on Mars: Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?](https://www.goodreads.com/review/show/6946928367?utm_medium=api&utm_source=rss) by Kelly Weinersmith (⭐️4.05)
+- [A City on Mars: Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?](https://www.goodreads.com/review/show/6946928367?utm_medium=api&utm_source=rss) by Kelly Weinersmith (⭐️4.04)
 - [Mathematician&apos;s Delight](https://www.goodreads.com/review/show/5019386463?utm_medium=api&utm_source=rss) by W.W. Sawyer (⭐️4.11)
 - [Nuclear War: A Scenario](https://www.goodreads.com/review/show/6934103639?utm_medium=api&utm_source=rss) by Annie Jacobsen (⭐️4.42)
 - [Surface Detail (Culture, #9)](https://www.goodreads.com/review/show/6808967965?utm_medium=api&utm_source=rss) by Iain M. Banks (⭐️4.24)
