@@ -16,7 +16,7 @@ I'm working on (unreleased): [Commit.Email](https://commit.email) *(Stack: [Node
 
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
-- [A History of the World in 500 Maps /anglais](https://www.goodreads.com/review/show/6956747160?utm_medium=api&utm_source=rss) by GRATALOUP CHRISTIAN/ (⭐️4.67)
+- [A History of the World in 500 Maps /anglais](https://www.goodreads.com/review/show/6956747160?utm_medium=api&utm_source=rss) by Christian Grataloup (⭐️4.67)
 - [The Hydrogen Sonata (Culture, #10)](https://www.goodreads.com/review/show/6951864117?utm_medium=api&utm_source=rss) by Iain M. Banks (⭐️4.17)
 - [Mathematician&apos;s Delight](https://www.goodreads.com/review/show/5019386463?utm_medium=api&utm_source=rss) by W.W. Sawyer (⭐️4.11)
 - [Nuclear War: A Scenario](https://www.goodreads.com/review/show/6934103639?utm_medium=api&utm_source=rss) by Annie Jacobsen (⭐️4.41)
