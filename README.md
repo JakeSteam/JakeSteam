@@ -6,11 +6,11 @@ I'm working on (unreleased): [Commit.Email](https://commit.email) *(Stack: [Node
 
 ## Latest Articles
 <!-- feed start -->
+- 2 November - [minimaJake v1.1.1 release notes](https://minima.jakelee.co.uk/v1.1.1/)
 - 23 October - [A possible fix for intermittently hanging Android builds on GitHub](https://blog.jakelee.co.uk/gradle-build-freezing-on-github-ci/)
 - 19 October - [How to bulk download all past versions of a webpage, parse the data in Python, and save to CSV](https://blog.jakelee.co.uk/bulk-downloading-website-history-and-parsing/)
 - 11 October - [Building a Jekyll / Liquid calendar with custom events](https://blog.jakelee.co.uk/jekyll-calendar-custom-events/)
 - 8 October - [minimaJake v1.1.0 release notes](https://minima.jakelee.co.uk/v1.1.0/)
-- 5 October - [A post-mortem of “BountyHour”, an unfinished microcontracting marketplace using Next.js, tRPC, and Prisma](https://blog.jakelee.co.uk/bountyhour-microcontracting-postmortem/)
 <!-- feed end -->
 *[Substack](https://jakeweeklee.substack.com)*
 
