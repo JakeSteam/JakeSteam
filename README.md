@@ -19,7 +19,7 @@ I'm working on (unreleased): [Commit.Email](https://commit.email) *(Stack: [Node
 - [A Stroke of the Pen: The Lost Stories](https://www.goodreads.com/review/show/6982141325?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4)
 - [Mathematician&apos;s Delight](https://www.goodreads.com/review/show/5019386463?utm_medium=api&utm_source=rss) by W.W. Sawyer (⭐️4.11)
 - [Nuclear War: A Scenario](https://www.goodreads.com/review/show/6934103639?utm_medium=api&utm_source=rss) by Annie Jacobsen (⭐️4.41)
-- [Love Triangle: How Trigonometry Shapes the World](https://www.goodreads.com/review/show/6906747462?utm_medium=api&utm_source=rss) by Matt    Parker (⭐️4.03)
+- [Love Triangle: How Trigonometry Shapes the World](https://www.goodreads.com/review/show/6906747462?utm_medium=api&utm_source=rss) by Matt    Parker (⭐️4.04)
 - [Everything Must Go: The Stories We Tell About the End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.13)
 - [Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster](https://www.goodreads.com/review/show/6420262350?utm_medium=api&utm_source=rss) by Adam Higginbotham (⭐️4.35)
 <!-- GOODREADS-LIST:END -->
