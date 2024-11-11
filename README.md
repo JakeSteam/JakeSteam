@@ -18,7 +18,7 @@ I'm working on (unreleased): [Commit.Email](https://commit.email) *(Stack: [Node
 <!-- GOODREADS-LIST:START -->
 - [Bad Man](https://www.goodreads.com/review/show/2762844069?utm_medium=api&utm_source=rss) by Dathan Auerbach (⭐️3.37)
 - [Nuclear War: A Scenario](https://www.goodreads.com/review/show/6934103639?utm_medium=api&utm_source=rss) by Annie Jacobsen (⭐️4.41)
-- [Love Triangle: How Trigonometry Shapes the World](https://www.goodreads.com/review/show/6906747462?utm_medium=api&utm_source=rss) by Matt    Parker (⭐️4.04)
+- [Love Triangle: How Trigonometry Shapes the World](https://www.goodreads.com/review/show/6906747462?utm_medium=api&utm_source=rss) by Matt    Parker (⭐️4.05)
 - [Everything Must Go: The Stories We Tell About the End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.13)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
