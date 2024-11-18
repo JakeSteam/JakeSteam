@@ -2,7 +2,7 @@
 
 I work as a Staff Android Engineer at 🐸[Seatfrog](https://seatfrog.com/)🐸, and do open source web-y / writing-y things in my spare time. 
 
-I'm working on (unreleased): [Commit.Email](https://commit.email) *(Stack: [Node.js](https://nodejs.org/en), [TypeScript](https://www.typescriptlang.org/), [Octokit](https://github.com/octokit/octokit.js), [GitHub Apps](https://github.com/marketplace?type=apps))*
+I'm sporadically working on (unreleased): [Commit.Email](https://commit.email) *(Stack: [Node.js](https://nodejs.org/en), [TypeScript](https://www.typescriptlang.org/), [Octokit](https://github.com/octokit/octokit.js), [GitHub Apps](https://github.com/marketplace?type=apps))*
 
 ## Latest Articles
 <!-- feed start -->
