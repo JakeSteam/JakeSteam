@@ -20,6 +20,6 @@ I'm working on (unreleased): [Commit.Email](https://commit.email) *(Stack: [Node
 - [Leviathan Wakes (The Expanse, #1)](https://www.goodreads.com/review/show/6995541641?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.29)
 - [Bad Man](https://www.goodreads.com/review/show/2762844069?utm_medium=api&utm_source=rss) by Dathan Auerbach (⭐️3.37)
 - [Love Triangle: How Trigonometry Shapes the World](https://www.goodreads.com/review/show/6906747462?utm_medium=api&utm_source=rss) by Matt    Parker (⭐️4.05)
-- [Everything Must Go: The Stories We Tell About the End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.13)
+- [Everything Must Go: The Stories We Tell About the End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.14)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
