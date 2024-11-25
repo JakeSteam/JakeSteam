@@ -16,6 +16,7 @@ I'm sporadically working on (unreleased): [Commit.Email](https://commit.email) *
 
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
+- [An Inspector Calls and Other Plays](https://www.goodreads.com/review/show/5843569024?utm_medium=api&utm_source=rss) by J.B. Priestley (⭐️3.9)
 - [The Deluge](https://www.goodreads.com/review/show/7029601770?utm_medium=api&utm_source=rss) by Stephen Markley (⭐️4.18)
 - [Leviathan Wakes (The Expanse, #1)](https://www.goodreads.com/review/show/6995541641?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.29)
 - [Love Triangle: How Trigonometry Shapes the World](https://www.goodreads.com/review/show/6906747462?utm_medium=api&utm_source=rss) by Matt    Parker (⭐️4.02)
