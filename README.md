@@ -6,11 +6,11 @@ I'm sporadically working on (unreleased): [Commit.Email](https://commit.email) *
 
 ## Latest Articles
 <!-- feed start -->
+- 30 November - [minimaJake v1.4.0 release notes](https://minima.jakelee.co.uk/v1.4.0/)
 - 16 November - [My experience with the GitHub Foundations Certification process](https://blog.jakelee.co.uk/review-of-github-foundations-certification/)
 - 12 November - [minimaJake v1.3.0 release notes](https://minima.jakelee.co.uk/v1.3.0/)
 - 10 November - [minimaJake v1.2.0 release notes](https://minima.jakelee.co.uk/v1.2.0/)
 - 9 November - [How to force update (&amp; test) your Android app using Google’s in-app update library](https://blog.jakelee.co.uk/googles-force-update-android-app-library/)
-- 9 November - [3 Android game recommendations: IdleTale ⚔️, Alto’s Odyssey 🏂, Cat Magic School 🧙](https://jakelee.co.uk/android-games-october-2024/)
 <!-- feed end -->
 *[Substack](https://jakeweeklee.substack.com)*
 
