@@ -19,7 +19,7 @@ I'm sporadically working on (unreleased): [Commit.Email](https://commit.email) *
 - [Programming Android with Kotlin: Achieving Structured Concurrency with Coroutines](https://www.goodreads.com/review/show/7052102812?utm_medium=api&utm_source=rss) by Pierre-Olivier Laurence (⭐️4.6)
 - [The Deluge](https://www.goodreads.com/review/show/7029601770?utm_medium=api&utm_source=rss) by Stephen Markley (⭐️4.18)
 - [Leviathan Wakes](https://www.goodreads.com/review/show/6995541641?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.29)
-- [Love Triangle: How Trigonometry Shapes the World](https://www.goodreads.com/review/show/6906747462?utm_medium=api&utm_source=rss) by Matt    Parker (⭐️4)
+- [Love Triangle: How Trigonometry Shapes the World](https://www.goodreads.com/review/show/6906747462?utm_medium=api&utm_source=rss) by Matt    Parker (⭐️4.01)
 - [Everything Must Go: The Stories We Tell About the End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.16)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
