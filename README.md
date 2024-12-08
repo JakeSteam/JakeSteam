@@ -6,11 +6,11 @@ I'm sporadically working on (unreleased): [Commit.Email](https://commit.email) *
 
 ## Latest Articles
 <!-- feed start -->
+- 7 December - [What on earth is an Octocat!? Exploring all 150+ variations of GitHub’s mascot](https://blog.jakelee.co.uk/what-on-earth-are-octocats/)
 - 4 December - [3 Android game recommendations: Home Town 🎴, Number Salad 🔢, Atom Idle ☢️](https://jakelee.co.uk/android-games-dec-24/)
 - 30 November - [How to automatically add WebP post banners to Jekyll for faster load times](https://blog.jakelee.co.uk/adding-automated-webp-banners-to-jekyll/)
 - 30 November - [minimaJake v1.4.0 release notes](https://minima.jakelee.co.uk/v1.4.0/)
 - 16 November - [My experience with the GitHub Foundations Certification process](https://blog.jakelee.co.uk/review-of-github-foundations-certification/)
-- 12 November - [minimaJake v1.3.0 release notes](https://minima.jakelee.co.uk/v1.3.0/)
 <!-- feed end -->
 *[Substack](https://jakeweeklee.substack.com)*
 
