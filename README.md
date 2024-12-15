@@ -19,7 +19,6 @@ I'm sporadically working on (unreleased):
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
 - [Programming Android with Kotlin: Achieving Structured Concurrency with Coroutines](https://www.goodreads.com/review/show/7052102812?utm_medium=api&utm_source=rss) by Pierre-Olivier Laurence (⭐️4.6)
-- [The Deluge](https://www.goodreads.com/review/show/7029601770?utm_medium=api&utm_source=rss) by Stephen Markley (⭐️4.19)
 - [Leviathan Wakes](https://www.goodreads.com/review/show/6995541641?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.29)
 - [Everything Must Go: The Stories We Tell About the End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.16)
 <!-- GOODREADS-LIST:END -->
