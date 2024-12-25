@@ -18,7 +18,7 @@ I'm sporadically working on (unreleased):
 
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
-- [Moon of the Crusted Snow (Moon, #1)](https://www.goodreads.com/review/show/7109785479?utm_medium=api&utm_source=rss) by Waubgeshig Rice (⭐️3.84)
+- [Say Nothing: A True Story of Murder and Memory in Northern Ireland](https://www.goodreads.com/review/show/7116922077?utm_medium=api&utm_source=rss) by Patrick Radden Keefe (⭐️4.47)
 - [The Master's Tools Will Never Dismantle the Master's House](https://www.goodreads.com/review/show/7109782805?utm_medium=api&utm_source=rss) by Audre Lorde (⭐️4.56)
 - [Programming Android with Kotlin: Achieving Structured Concurrency with Coroutines](https://www.goodreads.com/review/show/7052102812?utm_medium=api&utm_source=rss) by Pierre-Olivier Laurence (⭐️4.6)
 - [Leviathan Wakes (The Expanse, #1)](https://www.goodreads.com/review/show/6995541641?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.29)
