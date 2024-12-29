@@ -18,6 +18,7 @@ I'm sporadically working on (unreleased):
 
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
+- [Attack of the Flickering Skeletons: More Terrible Old Games You've Probably Never Heard Of](https://www.goodreads.com/review/show/7130829398?utm_medium=api&utm_source=rss) by Stuart Ashen (⭐️4.22)
 - [Say Nothing: A True Story of Murder and Memory in Northern Ireland](https://www.goodreads.com/review/show/7116922077?utm_medium=api&utm_source=rss) by Patrick Radden Keefe (⭐️4.47)
 - [The Master's Tools Will Never Dismantle the Master's House](https://www.goodreads.com/review/show/7109782805?utm_medium=api&utm_source=rss) by Audre Lorde (⭐️4.56)
 - [Programming Android with Kotlin: Achieving Structured Concurrency with Coroutines](https://www.goodreads.com/review/show/7052102812?utm_medium=api&utm_source=rss) by Pierre-Olivier Laurence (⭐️4.6)
