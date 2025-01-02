@@ -19,7 +19,6 @@ I'm sporadically working on (unreleased):
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
 - [Moon of the Turning Leaves (Moon, #2)](https://www.goodreads.com/review/show/7146120731?utm_medium=api&utm_source=rss) by Waubgeshig Rice (⭐️4.21)
-- [Attack of the Flickering Skeletons: More Terrible Old Games You've Probably Never Heard Of](https://www.goodreads.com/review/show/7130829398?utm_medium=api&utm_source=rss) by Stuart Ashen (⭐️4.22)
 - [The Master's Tools Will Never Dismantle the Master's House](https://www.goodreads.com/review/show/7109782805?utm_medium=api&utm_source=rss) by Audre Lorde (⭐️4.56)
 - [Programming Android with Kotlin: Achieving Structured Concurrency with Coroutines](https://www.goodreads.com/review/show/7052102812?utm_medium=api&utm_source=rss) by Pierre-Olivier Laurence (⭐️4.6)
 - [Leviathan Wakes (The Expanse, #1)](https://www.goodreads.com/review/show/6995541641?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.29)
