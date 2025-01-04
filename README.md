@@ -18,7 +18,6 @@ I'm sporadically working on (unreleased):
 
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
-- [Inside Black Mirror](https://www.goodreads.com/review/show/7161963294?utm_medium=api&utm_source=rss) by Charlie Brooker (⭐️4.35)
 - [Moon of the Turning Leaves (Moon, #2)](https://www.goodreads.com/review/show/7146120731?utm_medium=api&utm_source=rss) by Waubgeshig Rice (⭐️4.22)
 - [The Master's Tools Will Never Dismantle the Master's House](https://www.goodreads.com/review/show/7109782805?utm_medium=api&utm_source=rss) by Audre Lorde (⭐️4.56)
 - [Programming Android with Kotlin: Achieving Structured Concurrency with Coroutines](https://www.goodreads.com/review/show/7052102812?utm_medium=api&utm_source=rss) by Pierre-Olivier Laurence (⭐️4.6)
