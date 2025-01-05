@@ -18,7 +18,6 @@ I'm sporadically working on (unreleased):
 
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
-- [Moon of the Turning Leaves (Moon, #2)](https://www.goodreads.com/review/show/7146120731?utm_medium=api&utm_source=rss) by Waubgeshig Rice (⭐️4.22)
 - [The Master's Tools Will Never Dismantle the Master's House](https://www.goodreads.com/review/show/7109782805?utm_medium=api&utm_source=rss) by Audre Lorde (⭐️4.56)
 - [Programming Android with Kotlin: Achieving Structured Concurrency with Coroutines](https://www.goodreads.com/review/show/7052102812?utm_medium=api&utm_source=rss) by Pierre-Olivier Laurence (⭐️4.6)
 - [Everything Must Go: The Stories We Tell About the End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.15)
