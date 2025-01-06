@@ -18,7 +18,7 @@ I'm sporadically working on (unreleased):
 
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
-- [Delay, Deny, Defend: Why Insurance Companies Don't Pay Claims and What You Can Do About It](https://www.goodreads.com/review/show/7178527974?utm_medium=api&utm_source=rss) by Jay M. Feinman (⭐️4.21)
+- [Delay, Deny, Defend: Why Insurance Companies Don't Pay Claims and What You Can Do About It](https://www.goodreads.com/review/show/7178527974?utm_medium=api&utm_source=rss) by Jay M. Feinman (⭐️4.22)
 - [The Master's Tools Will Never Dismantle the Master's House](https://www.goodreads.com/review/show/7109782805?utm_medium=api&utm_source=rss) by Audre Lorde (⭐️4.56)
 - [Programming Android with Kotlin: Achieving Structured Concurrency with Coroutines](https://www.goodreads.com/review/show/7052102812?utm_medium=api&utm_source=rss) by Pierre-Olivier Laurence (⭐️4.6)
 - [Everything Must Go: The Stories We Tell About the End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.15)
