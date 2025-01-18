@@ -20,7 +20,6 @@ I'm sporadically working on (unreleased):
 <!-- GOODREADS-LIST:START -->
 - [The End](https://www.goodreads.com/review/show/7212252101?utm_medium=api&utm_source=rss) by Samuel Beckett (⭐️3.19)
 - [The Stranger](https://www.goodreads.com/review/show/7192054179?utm_medium=api&utm_source=rss) by Albert Camus (⭐️4.04)
-- [Programming Android with Kotlin: Achieving Structured Concurrency with Coroutines](https://www.goodreads.com/review/show/7052102812?utm_medium=api&utm_source=rss) by Pierre-Olivier Laurence (⭐️4.6)
 - [Everything Must Go: The Stories We Tell About the End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.17)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
