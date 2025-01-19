@@ -18,8 +18,8 @@ I'm sporadically working on (unreleased):
 
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
+- [Caliban’s War (The Expanse, #2)](https://www.goodreads.com/review/show/7232812574?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.36)
 - [The End](https://www.goodreads.com/review/show/7212252101?utm_medium=api&utm_source=rss) by Samuel Beckett (⭐️3.19)
-- [The Stranger](https://www.goodreads.com/review/show/7192054179?utm_medium=api&utm_source=rss) by Albert Camus (⭐️4.04)
 - [Everything Must Go: The Stories We Tell About the End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.18)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
