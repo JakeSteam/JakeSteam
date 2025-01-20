@@ -8,11 +8,11 @@ I'm sporadically working on (unreleased):
 
 ## Latest Articles
 <!-- feed start -->
+- 19 January - [Please don’t dox me Google: How to verify your Google Play account without exposing ALL of your information](https://blog.jakelee.co.uk/publishing-on-google-play-without-exposing-info/)
 - 27 December - [minimaJake v1.4.1 release notes](https://minima.jakelee.co.uk/v1.4.1/)
 - 26 December - [Rapidly improving Play Store rating with an Android in-app review prompt helper (from 2.2 to 4.7 in 2 weeks!)](https://blog.jakelee.co.uk/play-store-rating-prompt/)
 - 18 December - [Generating a SQLite word dictionary (with definitions) from WordNet using Python](https://blog.jakelee.co.uk/sqlite-word-dictionary-from-wordnet/)
 - 7 December - [What on earth is an Octocat!? Exploring all 150+ variations of GitHub’s mascot](https://blog.jakelee.co.uk/what-on-earth-are-octocats/)
-- 4 December - [3 Android game recommendations: Home Town 🎴, Number Salad 🔢, Atom Idle ☢️](https://jakelee.co.uk/android-games-dec-24/)
 <!-- feed end -->
 *[Substack](https://jakeweeklee.substack.com)*
 
