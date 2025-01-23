@@ -18,7 +18,7 @@ I'm sporadically working on (unreleased):
 
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
-- [Notes on ‘Camp’](https://www.goodreads.com/review/show/7244479185?utm_medium=api&utm_source=rss) by Susan Sontag (⭐️3.97)
+- [The Gigolo](https://www.goodreads.com/review/show/7246144435?utm_medium=api&utm_source=rss) by Françoise Sagan (⭐️3.57)
 - [Caliban’s War (The Expanse, #2)](https://www.goodreads.com/review/show/7232812574?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.36)
 - [Everything Must Go: The Stories We Tell About the End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.18)
 <!-- GOODREADS-LIST:END -->
