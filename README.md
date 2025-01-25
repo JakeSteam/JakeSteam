@@ -18,8 +18,8 @@ I'm sporadically working on (unreleased):
 
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
+- [Bridge](https://www.goodreads.com/review/show/7254250541?utm_medium=api&utm_source=rss) by Lauren Beukes (⭐️3.61)
 - [The Gigolo](https://www.goodreads.com/review/show/7246144435?utm_medium=api&utm_source=rss) by Françoise Sagan (⭐️3.57)
 - [Caliban’s War (The Expanse, #2)](https://www.goodreads.com/review/show/7232812574?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.36)
-- [Everything Must Go: The Stories We Tell About the End of the World](https://www.goodreads.com/review/show/6736777927?utm_medium=api&utm_source=rss) by Dorian Lynskey (⭐️4.18)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
