@@ -18,7 +18,7 @@ I'm sporadically working on (unreleased):
 
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
-- [Ancillary Justice (Imperial Radch, #1)](https://www.goodreads.com/review/show/7271741442?utm_medium=api&utm_source=rss) by Ann Leckie (⭐️3.98)
+- [I Keep My Exoskeletons to Myself](https://www.goodreads.com/review/show/7274532814?utm_medium=api&utm_source=rss) by Marisa Crane (⭐️3.9)
 - [Glittering City](https://www.goodreads.com/review/show/7260340782?utm_medium=api&utm_source=rss) by Cyprian Ekwensi (⭐️3.15)
 - [Caliban’s War (The Expanse, #2)](https://www.goodreads.com/review/show/7232812574?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.36)
 <!-- GOODREADS-LIST:END -->
