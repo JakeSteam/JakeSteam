@@ -18,8 +18,8 @@ I'm sporadically working on (unreleased):
 
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
+- [Ascension](https://www.goodreads.com/review/show/7282757385?utm_medium=api&utm_source=rss) by Nicholas Binge (⭐️3.53)
 - [Piers of the Homeless Night](https://www.goodreads.com/review/show/7276942504?utm_medium=api&utm_source=rss) by Jack Kerouac (⭐️3.19)
-- [I Keep My Exoskeletons to Myself](https://www.goodreads.com/review/show/7274532814?utm_medium=api&utm_source=rss) by Marisa Crane (⭐️3.9)
 - [Caliban’s War (The Expanse, #2)](https://www.goodreads.com/review/show/7232812574?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.36)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
