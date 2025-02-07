@@ -18,7 +18,6 @@ I'm sporadically working on (unreleased):
 
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
-- [The Duke in His Domain](https://www.goodreads.com/review/show/7290861969?utm_medium=api&utm_source=rss) by Truman Capote (⭐️3.8)
 - [Ascension](https://www.goodreads.com/review/show/7282757385?utm_medium=api&utm_source=rss) by Nicholas Binge (⭐️3.53)
 - [Caliban’s War (The Expanse, #2)](https://www.goodreads.com/review/show/7232812574?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.36)
 <!-- GOODREADS-LIST:END -->
