@@ -18,8 +18,8 @@ I'm sporadically working on (unreleased):
 
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
+- [The Fall](https://www.goodreads.com/review/show/7301396796?utm_medium=api&utm_source=rss) by Albert Camus (⭐️4.07)
 - [Leaving the Yellow House (Penguin Modern)](https://www.goodreads.com/review/show/7298555008?utm_medium=api&utm_source=rss) by Saul Bellow (⭐️3.22)
-- [Ascension](https://www.goodreads.com/review/show/7282757385?utm_medium=api&utm_source=rss) by Nicholas Binge (⭐️3.53)
 - [Caliban’s War (The Expanse, #2)](https://www.goodreads.com/review/show/7232812574?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.36)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
