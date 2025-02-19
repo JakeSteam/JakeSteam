@@ -3,7 +3,7 @@
 I work as a Staff Android Engineer at 🐸[Seatfrog](https://seatfrog.com/)🐸, and do open source web-y / writing-y things in my spare time. 
 
 I'm sporadically working on (unreleased): 
-- WordCrawler (Android, iOS, Desktop) *(Stack: [Kotlin](https://kotlinlang.org/docs/multiplatform.html) & [Compose](https://www.jetbrains.com/compose-multiplatform/) Multiplatform, [SQLDelight](https://sqldelight.github.io/sqldelight/2.0.2/))*
+- WordCrawler (Android, iOS, Desktop) *(Stack: [Kotlin](https://kotlinlang.org/docs/multiplatform.html) & [Compose](https://www.jetbrains.com/compose-multiplatform/) Multiplatform, [Room](https://developer.android.com/kotlin/multiplatform/room), etc)*
 - [Commit.Email](https://commit.email) *(Stack: [Node.js](https://nodejs.org/en), [TypeScript](https://www.typescriptlang.org/), [Octokit](https://github.com/octokit/octokit.js), [GitHub Apps](https://github.com/marketplace?type=apps))*
 
 ## Latest Articles
