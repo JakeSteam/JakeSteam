@@ -18,7 +18,7 @@ I'm sporadically working on (unreleased):
 
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
-- [Wild Swans: Three Daughters of China](https://www.goodreads.com/review/show/3109227262?utm_medium=api&utm_source=rss) by Jung Chang (⭐️4.28)
+- [Infinity Gate (Pandominion, #1)](https://www.goodreads.com/review/show/7373713415?utm_medium=api&utm_source=rss) by M.R. Carey (⭐️4.05)
 - [Leaving the Yellow House (Penguin Modern)](https://www.goodreads.com/review/show/7298555008?utm_medium=api&utm_source=rss) by Saul Bellow (⭐️3.22)
 - [Caliban’s War (The Expanse, #2)](https://www.goodreads.com/review/show/7232812574?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.36)
 <!-- GOODREADS-LIST:END -->
