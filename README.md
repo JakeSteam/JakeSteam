@@ -18,8 +18,8 @@ I'm sporadically working on (unreleased):
 
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
+- [There Is No Antimemetics Division](https://www.goodreads.com/review/show/7396675512?utm_medium=api&utm_source=rss) by qntm (⭐️4.23)
 - [The Cracked Looking-Glass](https://www.goodreads.com/review/show/7386898004?utm_medium=api&utm_source=rss) by Katherine Anne Porter (⭐️3.04)
-- [Infinity Gate (Pandominion, #1)](https://www.goodreads.com/review/show/7373713415?utm_medium=api&utm_source=rss) by M.R. Carey (⭐️4.06)
 - [Caliban’s War (The Expanse, #2)](https://www.goodreads.com/review/show/7232812574?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.36)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
