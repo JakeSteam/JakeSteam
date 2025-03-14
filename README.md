@@ -18,7 +18,7 @@ I'm sporadically working on (unreleased):
 
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
-- [There Is No Antimemetics Division](https://www.goodreads.com/review/show/7396675512?utm_medium=api&utm_source=rss) by qntm (⭐️4.23)
+- [Mickey7 (Mickey7, #1)](https://www.goodreads.com/review/show/7400656731?utm_medium=api&utm_source=rss) by Edward Ashton (⭐️3.74)
 - [The Cracked Looking-Glass](https://www.goodreads.com/review/show/7386898004?utm_medium=api&utm_source=rss) by Katherine Anne Porter (⭐️3.04)
 - [Caliban’s War (The Expanse, #2)](https://www.goodreads.com/review/show/7232812574?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.36)
 <!-- GOODREADS-LIST:END -->
