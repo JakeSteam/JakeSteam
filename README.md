@@ -18,7 +18,7 @@ I'm sporadically working on (unreleased):
 
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
-- [No Country for Old Men](https://www.goodreads.com/review/show/7282492925?utm_medium=api&utm_source=rss) by Cormac McCarthy (⭐️4.25)
+- [The Goodbye Cat](https://www.goodreads.com/review/show/7282409497?utm_medium=api&utm_source=rss) by Hiro Arikawa (⭐️3.91)
 - [Echo of Worlds (Pandominion, #2)](https://www.goodreads.com/review/show/7412037060?utm_medium=api&utm_source=rss) by M.R. Carey (⭐️4.26)
 - [The Cracked Looking-Glass](https://www.goodreads.com/review/show/7386898004?utm_medium=api&utm_source=rss) by Katherine Anne Porter (⭐️3.04)
 - [Caliban’s War (The Expanse, #2)](https://www.goodreads.com/review/show/7232812574?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.36)
