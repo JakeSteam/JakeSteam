@@ -20,7 +20,7 @@ I'm sporadically working on (unreleased):
 <!-- GOODREADS-LIST:START -->
 - [Ancillary Justice (Imperial Radch, #1)](https://www.goodreads.com/review/show/7271741442?utm_medium=api&utm_source=rss) by Ann Leckie (⭐️3.98)
 - [The Goodbye Cat](https://www.goodreads.com/review/show/7282409497?utm_medium=api&utm_source=rss) by Hiro Arikawa (⭐️3.91)
-- [The Cracked Looking-Glass](https://www.goodreads.com/review/show/7386898004?utm_medium=api&utm_source=rss) by Katherine Anne Porter (⭐️3.04)
+- [The Cracked Looking-Glass](https://www.goodreads.com/review/show/7386898004?utm_medium=api&utm_source=rss) by Katherine Anne Porter (⭐️3.05)
 - [Caliban’s War (The Expanse, #2)](https://www.goodreads.com/review/show/7232812574?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.36)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
