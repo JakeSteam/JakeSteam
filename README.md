@@ -18,7 +18,6 @@ I'm sporadically working on (unreleased):
 
 ## Currently Reading
 <!-- GOODREADS-LIST:START -->
-- [Killers of the Flower Moon: The Osage Murders and the Birth of the FBI](https://www.goodreads.com/review/show/7282511963?utm_medium=api&utm_source=rss) by David Grann (⭐️4.12)
 - [To Start a War: How the Bush Administration Took America into Iraq](https://www.goodreads.com/review/show/7468952641?utm_medium=api&utm_source=rss) by Robert Draper (⭐️4.29)
 - [The Cracked Looking-Glass](https://www.goodreads.com/review/show/7386898004?utm_medium=api&utm_source=rss) by Katherine Anne Porter (⭐️3.05)
 - [Caliban’s War (The Expanse, #2)](https://www.goodreads.com/review/show/7232812574?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.36)
