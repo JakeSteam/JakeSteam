@@ -6,7 +6,7 @@ I'm sporadically working on (unreleased):
 - WordCrawler (Android, iOS, Desktop) *(Stack: [Kotlin](https://kotlinlang.org/docs/multiplatform.html) & [Compose](https://www.jetbrains.com/compose-multiplatform/) Multiplatform, [Room](https://developer.android.com/kotlin/multiplatform/room), etc)*
 - [Commit.Email](https://commit.email) *(Stack: [Node.js](https://nodejs.org/en), [TypeScript](https://www.typescriptlang.org/), [Octokit](https://github.com/octokit/octokit.js), [GitHub Apps](https://github.com/marketplace?type=apps))*
 
-## Latest Articles
+## Writing
 <!-- feed start -->
 - 10 April - [Verifying identity on Companies House with GOV.UK One Login: A walkthrough of the upcoming requirement’s process](https://jakelee.co.uk/verifying-identity-on-companies-house-with-one-login/)
 - 30 March - [3 Android game recommendations: Ore Buster 🪨, Idle Space Force 🚀, Lucky Luna 🦊](https://jakelee.co.uk/android-games-apr-25/)
@@ -16,7 +16,7 @@ I'm sporadically working on (unreleased):
 <!-- feed end -->
 *[Substack](https://jakeweeklee.substack.com)*
 
-## Currently Reading
+## Reading
 <!-- GOODREADS-LIST:START -->
 - [The Name of the Wind (The Kingkiller Chronicle, #1)](https://www.goodreads.com/review/show/7491938989?utm_medium=api&utm_source=rss) by Patrick Rothfuss (⭐️4.52)
 - [Conversations with Stalin](https://www.goodreads.com/review/show/6479638670?utm_medium=api&utm_source=rss) by Milovan Đilas (⭐️3.89)
