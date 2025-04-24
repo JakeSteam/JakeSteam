@@ -18,8 +18,8 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
+- [Absolution (Southern Reach, #4)](https://www.goodreads.com/review/show/7513644921?utm_medium=api&utm_source=rss) by Jeff VanderMeer (⭐️3.61)
 - [A Common-Sense Guide to Data Structures and Algorithms: Level Up Your Core Programming Skills](https://www.goodreads.com/review/show/7512876445?utm_medium=api&utm_source=rss) by Jay Wengrow (⭐️4.33)
-- [The Name of the Wind (The Kingkiller Chronicle, #1)](https://www.goodreads.com/review/show/7491938989?utm_medium=api&utm_source=rss) by Patrick Rothfuss (⭐️4.52)
 - [Conversations with Stalin](https://www.goodreads.com/review/show/6479638670?utm_medium=api&utm_source=rss) by Milovan Đilas (⭐️3.9)
 - [The Cracked Looking-Glass](https://www.goodreads.com/review/show/7386898004?utm_medium=api&utm_source=rss) by Katherine Anne Porter (⭐️3.05)
 - [Caliban’s War (The Expanse, #2)](https://www.goodreads.com/review/show/7232812574?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.36)
