@@ -8,11 +8,11 @@ I'm sporadically working on (unreleased):
 
 ## Writing
 <!-- feed start -->
+- 23 April - [3 fun creature-y Android games: 🏞️ Pondlife, 👾 Thronglets, 🪱 I got Worms](https://jakelee.co.uk/april-android-games-2025/)
 - 10 April - [Verifying identity on Companies House with GOV.UK One Login: A walkthrough of the upcoming requirement’s process](https://jakelee.co.uk/verifying-identity-on-companies-house-with-one-login/)
 - 30 March - [3 Android game recommendations: Ore Buster 🪨, Idle Space Force 🚀, Lucky Luna 🦊](https://jakelee.co.uk/android-games-apr-25/)
 - 10 March - [3 Android game recommendations: Tumblewords 🔤, Mystery Digger ⛏️, Arranger 🟧](https://jakelee.co.uk/android-games-mar-25/)
 - 7 February - [33 tips for the worst grind in Forza Horizon 5: Level 1000 Hide and Seek](https://jakelee.co.uk/forza-horizon-hide-and-seek-tips/)
-- 19 January - [Please don’t dox me Google: How to verify your Google Play account without exposing ALL of your information](https://blog.jakelee.co.uk/publishing-on-google-play-without-exposing-info/)
 <!-- feed end -->
 *[Substack](https://jakeweeklee.substack.com)*
 
