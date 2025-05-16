@@ -18,7 +18,7 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
-- [The Problem That Has No Name](https://www.goodreads.com/review/show/7563684467?utm_medium=api&utm_source=rss) by Betty Friedan (⭐️4.21)
+- [The Dialogue of Two Snails](https://www.goodreads.com/review/show/7572006002?utm_medium=api&utm_source=rss) by Federico García Lorca (⭐️3.29)
 - [Absolution (Southern Reach, #4)](https://www.goodreads.com/review/show/7513644921?utm_medium=api&utm_source=rss) by Jeff VanderMeer (⭐️3.6)
 - [Caliban’s War (The Expanse, #2)](https://www.goodreads.com/review/show/7232812574?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.36)
 <!-- GOODREADS-LIST:END -->
