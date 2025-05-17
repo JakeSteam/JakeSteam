@@ -18,7 +18,7 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
-- [Madame du Deffand and the Idiots](https://www.goodreads.com/review/show/7574141865?utm_medium=api&utm_source=rss) by Javier Marías (⭐️3.71)
+- [The Survivor](https://www.goodreads.com/review/show/7574789077?utm_medium=api&utm_source=rss) by Primo Levi (⭐️3.74)
 - [Absolution (Southern Reach, #4)](https://www.goodreads.com/review/show/7513644921?utm_medium=api&utm_source=rss) by Jeff VanderMeer (⭐️3.6)
 - [Caliban’s War (The Expanse, #2)](https://www.goodreads.com/review/show/7232812574?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.36)
 <!-- GOODREADS-LIST:END -->
