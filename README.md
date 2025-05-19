@@ -18,6 +18,7 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
+- [The Sirens of Mars: Searching for Life on Another World](https://www.goodreads.com/review/show/6495246169?utm_medium=api&utm_source=rss) by Sarah Stewart Johnson (⭐️3.94)
 - [Absolution (Southern Reach, #4)](https://www.goodreads.com/review/show/7513644921?utm_medium=api&utm_source=rss) by Jeff VanderMeer (⭐️3.6)
 - [Caliban’s War (The Expanse, #2)](https://www.goodreads.com/review/show/7232812574?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.36)
 <!-- GOODREADS-LIST:END -->
