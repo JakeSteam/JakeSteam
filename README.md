@@ -18,7 +18,7 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
-- [Someone Like You](https://www.goodreads.com/review/show/7586776278?utm_medium=api&utm_source=rss) by Roald Dahl (⭐️3.98)
+- [The Invincible](https://www.goodreads.com/review/show/7597519649?utm_medium=api&utm_source=rss) by Stanisław Lem (⭐️4.15)
 - [The Sirens of Mars: Searching for Life on Another World](https://www.goodreads.com/review/show/6495246169?utm_medium=api&utm_source=rss) by Sarah Stewart Johnson (⭐️3.94)
 - [Caliban’s War (The Expanse, #2)](https://www.goodreads.com/review/show/7232812574?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.36)
 <!-- GOODREADS-LIST:END -->
