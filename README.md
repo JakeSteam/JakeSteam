@@ -18,9 +18,9 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
+- [Pale Fire](https://www.goodreads.com/review/show/7663043307?utm_medium=api&utm_source=rss) by Vladimir Nabokov (⭐️4.17)
 - [Yardsticks For Failure: Adventures in Friendship and Fluster](https://www.goodreads.com/review/show/7651085467?utm_medium=api&utm_source=rss) by Ivo Graham (⭐️4.26)
 - [The Sirens of Mars: Searching for Life on Another World](https://www.goodreads.com/review/show/6495246169?utm_medium=api&utm_source=rss) by Sarah Stewart Johnson (⭐️3.94)
-- [HATE: My Life In The British Far Right](https://www.goodreads.com/review/show/7628630427?utm_medium=api&utm_source=rss) by Matthew Collins (⭐️3.5)
 - [Caliban’s War (The Expanse, #2)](https://www.goodreads.com/review/show/7232812574?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.36)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
