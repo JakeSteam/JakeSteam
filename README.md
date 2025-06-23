@@ -19,7 +19,7 @@ I'm sporadically working on (unreleased):
 ## Reading
 <!-- GOODREADS-LIST:START -->
 - [Slow Burn City: London in the Twenty-First Century](https://www.goodreads.com/review/show/4252990823?utm_medium=api&utm_source=rss) by Rowan Moore (⭐️4.22)
-- [Yardsticks For Failure: Adventures in Friendship and Fluster](https://www.goodreads.com/review/show/7651085467?utm_medium=api&utm_source=rss) by Ivo Graham (⭐️4.19)
+- [Yardsticks For Failure: Adventures in Friendship and Fluster](https://www.goodreads.com/review/show/7651085467?utm_medium=api&utm_source=rss) by Ivo Graham (⭐️4.18)
 - [Caliban’s War (The Expanse, #2)](https://www.goodreads.com/review/show/7232812574?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.36)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
