@@ -20,7 +20,6 @@ I'm sporadically working on (unreleased):
 <!-- GOODREADS-LIST:START -->
 - [Service Model](https://www.goodreads.com/review/show/7678986564?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️3.98)
 - [Slow Burn City: London in the Twenty-First Century](https://www.goodreads.com/review/show/4252990823?utm_medium=api&utm_source=rss) by Rowan Moore (⭐️4.22)
-- [Yardsticks For Failure: Adventures in Friendship and Fluster](https://www.goodreads.com/review/show/7651085467?utm_medium=api&utm_source=rss) by Ivo Graham (⭐️4.17)
 - [Caliban’s War (The Expanse, #2)](https://www.goodreads.com/review/show/7232812574?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.36)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
