@@ -8,11 +8,11 @@ I'm sporadically working on (unreleased):
 
 ## Writing
 <!-- feed start -->
+- 27 June - [3 simple yet satisfying Android games: 🐰 A Tiny Sticker Tale, 🎰 Scratch Inc, 🎲 Heroll](https://jakelee.co.uk/android-games-june-25/)
 - 7 May - [3 fun little Android games: 💸 Forest Fables, 💡 Dig-Dig Rush, 📃 Paper War](https://jakelee.co.uk/may-2025-android-games/)
 - 23 April - [3 fun creature-y Android games: 🏞️ Pondlife, 👾 Thronglets, 🪱 I got Worms](https://jakelee.co.uk/april-android-games-2025/)
 - 10 April - [Verifying identity on Companies House with GOV.UK One Login: A walkthrough of the upcoming requirement’s process](https://jakelee.co.uk/verifying-identity-on-companies-house-with-one-login/)
 - 30 March - [3 Android game recommendations: Ore Buster 🪨, Idle Space Force 🚀, Lucky Luna 🦊](https://jakelee.co.uk/android-games-apr-25/)
-- 10 March - [3 Android game recommendations: Tumblewords 🔤, Mystery Digger ⛏️, Arranger 🟧](https://jakelee.co.uk/android-games-mar-25/)
 <!-- feed end -->
 *[Substack](https://jakeweeklee.substack.com)*
 
