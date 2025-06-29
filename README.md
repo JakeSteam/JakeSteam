@@ -18,6 +18,7 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
+- [The Demon](https://www.goodreads.com/review/show/7692403967?utm_medium=api&utm_source=rss) by Hubert Selby Jr. (⭐️3.9)
 - [Chapters](https://www.goodreads.com/review/show/7688873153?utm_medium=api&utm_source=rss) by Tim  Key (⭐️4.51)
 - [Service Model](https://www.goodreads.com/review/show/7678986564?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️3.98)
 - [Slow Burn City: London in the Twenty-First Century](https://www.goodreads.com/review/show/4252990823?utm_medium=api&utm_source=rss) by Rowan Moore (⭐️4.22)
