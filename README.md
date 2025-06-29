@@ -18,7 +18,7 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
-- [The Demon](https://www.goodreads.com/review/show/7692403967?utm_medium=api&utm_source=rss) by Hubert Selby Jr. (⭐️3.9)
+- [There Once Lived a Woman Who Tried to Kill Her Neighbor's Baby: Scary Fairy Tales](https://www.goodreads.com/review/show/7693672009?utm_medium=api&utm_source=rss) by Ludmilla Petrushevskaya (⭐️3.64)
 - [Chapters](https://www.goodreads.com/review/show/7688873153?utm_medium=api&utm_source=rss) by Tim  Key (⭐️4.51)
 - [Service Model](https://www.goodreads.com/review/show/7678986564?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️3.98)
 - [Slow Burn City: London in the Twenty-First Century](https://www.goodreads.com/review/show/4252990823?utm_medium=api&utm_source=rss) by Rowan Moore (⭐️4.22)
