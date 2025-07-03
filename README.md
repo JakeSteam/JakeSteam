@@ -18,8 +18,8 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
+- [I Cheerfully Refuse](https://www.goodreads.com/review/show/7705665484?utm_medium=api&utm_source=rss) by Leif Enger (⭐️3.83)
 - [Walking Disaster: My Life Through Heaven and Hell](https://www.goodreads.com/review/show/7697725130?utm_medium=api&utm_source=rss) by Deryck Whibley (⭐️4.39)
-- [There Once Lived a Woman Who Tried to Kill Her Neighbor's Baby: Scary Fairy Tales](https://www.goodreads.com/review/show/7693672009?utm_medium=api&utm_source=rss) by Ludmilla Petrushevskaya (⭐️3.64)
 - [Slow Burn City: London in the Twenty-First Century](https://www.goodreads.com/review/show/4252990823?utm_medium=api&utm_source=rss) by Rowan Moore (⭐️4.22)
 - [Caliban’s War (The Expanse, #2)](https://www.goodreads.com/review/show/7232812574?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.36)
 <!-- GOODREADS-LIST:END -->
