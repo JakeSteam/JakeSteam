@@ -8,11 +8,11 @@ I'm sporadically working on (unreleased):
 
 ## Writing
 <!-- feed start -->
+- 20 July - [Yet more Play Pass games! 🦖 Tap Dig My Museum, 🏠 Possessions, 🏎️ Super Arcade Racing](https://jakelee.co.uk/android-games-july-25-3/)
 - 14 July - [4 Play Pass game reviews: 🤠 Bounty Of One, 🫁 Homo Machina, ⚔️ MERGE KITCHEN, 🦜 Bird Alone](https://jakelee.co.uk/android-games-july-25-2/)
 - 1 July - [4 Play Pass game reviews: 🚀 SPACEPLAN, 🙀 Cat Museum, 🦞 Dungeon Clawler, 🔎 Wind Peaks](https://jakelee.co.uk/android-games-july-2025/)
 - 27 June - [3 simple yet satisfying Android games: 🐰 A Tiny Sticker Tale, 🎰 Scratch Inc, 🎲 Heroll](https://jakelee.co.uk/android-games-june-25/)
 - 7 May - [3 fun little Android games: 💸 Forest Fables, 💡 Dig-Dig Rush, 📃 Paper War](https://jakelee.co.uk/may-2025-android-games/)
-- 23 April - [3 fun creature-y Android games: 🏞️ Pondlife, 👾 Thronglets, 🪱 I got Worms](https://jakelee.co.uk/april-android-games-2025/)
 <!-- feed end -->
 *[Substack](https://jakeweeklee.substack.com)*
 
