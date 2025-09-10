@@ -18,7 +18,6 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
-- [Killing Pablo: The Hunt for the World's Greatest Outlaw](https://www.goodreads.com/review/show/7896443456?utm_medium=api&utm_source=rss) by Mark Bowden (⭐️3.97)
 - [A Slip of the Keyboard: Collected Non-Fiction](https://www.goodreads.com/review/show/7836728192?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.22)
 - [Black Hawk Down: A Story of Modern War](https://www.goodreads.com/review/show/7832746190?utm_medium=api&utm_source=rss) by Mark Bowden (⭐️4.3)
 - [Fallout New Vegas - Prima Official Game Guide](https://www.goodreads.com/review/show/7824311416?utm_medium=api&utm_source=rss) by David Hodgson (⭐️4.15)
