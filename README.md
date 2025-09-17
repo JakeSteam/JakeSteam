@@ -18,7 +18,7 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
-- [Extinction (Cash & Colcord #1)](https://www.goodreads.com/review/show/7912131787?utm_medium=api&utm_source=rss) by Douglas Preston (⭐️3.87)
+- [The Collected Strange Stories Of Robert Aickman: I](https://www.goodreads.com/review/show/7921658128?utm_medium=api&utm_source=rss) by Robert Aickman (⭐️4.66)
 - [A Slip of the Keyboard: Collected Non-Fiction](https://www.goodreads.com/review/show/7836728192?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.22)
 - [Fallout New Vegas - Prima Official Game Guide](https://www.goodreads.com/review/show/7824311416?utm_medium=api&utm_source=rss) by David Hodgson (⭐️4.15)
 - [Mark Watson Makes The World Substantially Better](https://www.goodreads.com/review/show/7811423805?utm_medium=api&utm_source=rss) by Mark Watson (⭐️4.25)
