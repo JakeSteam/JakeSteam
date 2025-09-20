@@ -18,6 +18,7 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
+- [Blood Meridian, or, the Evening Redness in the West](https://www.goodreads.com/review/show/7928293638?utm_medium=api&utm_source=rss) by Cormac McCarthy (⭐️4.18)
 - [The Collected Strange Stories Of Robert Aickman: I](https://www.goodreads.com/review/show/7921658128?utm_medium=api&utm_source=rss) by Robert Aickman (⭐️4.66)
 - [A Slip of the Keyboard: Collected Non-Fiction](https://www.goodreads.com/review/show/7836728192?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.22)
 - [Fallout New Vegas - Prima Official Game Guide](https://www.goodreads.com/review/show/7824311416?utm_medium=api&utm_source=rss) by David Hodgson (⭐️4.15)
