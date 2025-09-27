@@ -8,11 +8,11 @@ I'm sporadically working on (unreleased):
 
 ## Writing
 <!-- feed start -->
+- 26 September - [4 days in Kyoto / Nara, told via Google Maps reviews (part 3/5, 34 reviews)](https://jakelee.co.uk/japan-part-3-kyoto/)
 - 24 September - [3 days in Takayama, told via Google Maps reviews (part 2/5, 30 reviews)](https://jakelee.co.uk/japan-part-2-takayama/)
 - 17 September - [5 days in Tokyo, told via Google Maps reviews (part 1/5, 37 reviews)](https://jakelee.co.uk/japan-part-1-tokyo/)
 - 20 July - [Yet more Play Pass games! 🦖 Tap Dig My Museum, 🏠 Possessions, 🏎️ Super Arcade Racing](https://jakelee.co.uk/android-games-july-25-3/)
 - 14 July - [4 Play Pass game reviews: 🤠 Bounty Of One, 🫁 Homo Machina, ⚔️ MERGE KITCHEN, 🦜 Bird Alone](https://jakelee.co.uk/android-games-july-25-2/)
-- 1 July - [4 Play Pass game reviews: 🚀 SPACEPLAN, 🙀 Cat Museum, 🦞 Dungeon Clawler, 🔎 Wind Peaks](https://jakelee.co.uk/android-games-july-2025/)
 <!-- feed end -->
 *[Substack](https://jakeweeklee.substack.com)*
 
