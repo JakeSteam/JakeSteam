@@ -8,11 +8,11 @@ I'm sporadically working on (unreleased):
 
 ## Writing
 <!-- feed start -->
+- 29 September - [3 more days in Tokyo, told via Google Maps reviews (part 5/5, 26 reviews)](https://jakelee.co.uk/japan-part-5-tokyo/)
 - 28 September - [4 more days in Kyoto / Osaka / Hiroshima, told via Google Maps reviews (part 4/5, 23 reviews)](https://jakelee.co.uk/japan-part-4-kyoto/)
 - 26 September - [4 days in Kyoto / Nara, told via Google Maps reviews (part 3/5, 34 reviews)](https://jakelee.co.uk/japan-part-3-kyoto/)
 - 24 September - [3 days in Takayama, told via Google Maps reviews (part 2/5, 30 reviews)](https://jakelee.co.uk/japan-part-2-takayama/)
 - 17 September - [5 days in Tokyo, told via Google Maps reviews (part 1/5, 37 reviews)](https://jakelee.co.uk/japan-part-1-tokyo/)
-- 20 July - [Yet more Play Pass games! 🦖 Tap Dig My Museum, 🏠 Possessions, 🏎️ Super Arcade Racing](https://jakelee.co.uk/android-games-july-25-3/)
 <!-- feed end -->
 *[Substack](https://jakeweeklee.substack.com)*
 
