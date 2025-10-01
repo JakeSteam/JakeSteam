@@ -21,7 +21,6 @@ I'm sporadically working on (unreleased):
 - [Inconstant Moon](https://www.goodreads.com/review/show/7650917285?utm_medium=api&utm_source=rss) by Larry Niven (⭐️4.07)
 - [Blood Meridian, or, the Evening Redness in the West](https://www.goodreads.com/review/show/7928293638?utm_medium=api&utm_source=rss) by Cormac McCarthy (⭐️4.18)
 - [The Collected Strange Stories Of Robert Aickman: I](https://www.goodreads.com/review/show/7921658128?utm_medium=api&utm_source=rss) by Robert Aickman (⭐️4.66)
-- [A Slip of the Keyboard: Collected Non-Fiction](https://www.goodreads.com/review/show/7836728192?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.22)
 - [Mark Watson Makes The World Substantially Better](https://www.goodreads.com/review/show/7811423805?utm_medium=api&utm_source=rss) by Mark Watson (⭐️4.25)
 - [Caliban’s War (The Expanse, #2)](https://www.goodreads.com/review/show/7232812574?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.36)
 <!-- GOODREADS-LIST:END -->
