@@ -18,7 +18,7 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
-- [Inconstant Moon](https://www.goodreads.com/review/show/7650917285?utm_medium=api&utm_source=rss) by Larry Niven (⭐️4.07)
+- [The Last King of Scotland](https://www.goodreads.com/review/show/6230972220?utm_medium=api&utm_source=rss) by Giles Foden (⭐️3.79)
 - [Blood Meridian, or, the Evening Redness in the West](https://www.goodreads.com/review/show/7928293638?utm_medium=api&utm_source=rss) by Cormac McCarthy (⭐️4.18)
 - [The Collected Strange Stories Of Robert Aickman: I](https://www.goodreads.com/review/show/7921658128?utm_medium=api&utm_source=rss) by Robert Aickman (⭐️4.66)
 - [Mark Watson Makes The World Substantially Better](https://www.goodreads.com/review/show/7811423805?utm_medium=api&utm_source=rss) by Mark Watson (⭐️4.25)
