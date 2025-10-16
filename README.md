@@ -19,6 +19,7 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
+- [Mark Watson's Live Address to the Nation](https://www.goodreads.com/review/show/7996964640?utm_medium=api&utm_source=rss) by Mark Watson (⭐️3)
 - [Double or Nothing](https://www.goodreads.com/review/show/6156632928?utm_medium=api&utm_source=rss) by Raymond Federman (⭐️4.02)
 - [Blood Meridian, or, the Evening Redness in the West](https://www.goodreads.com/review/show/7928293638?utm_medium=api&utm_source=rss) by Cormac McCarthy (⭐️4.18)
 - [The Collected Strange Stories Of Robert Aickman: I](https://www.goodreads.com/review/show/7921658128?utm_medium=api&utm_source=rss) by Robert Aickman (⭐️4.66)
