@@ -23,6 +23,6 @@ I'm sporadically working on (unreleased):
 - [Mark Watson's Live Address to the Nation](https://www.goodreads.com/review/show/7996964640?utm_medium=api&utm_source=rss) by Mark Watson (⭐️3)
 - [Blood Meridian, or, the Evening Redness in the West](https://www.goodreads.com/review/show/7928293638?utm_medium=api&utm_source=rss) by Cormac McCarthy (⭐️4.18)
 - [The Collected Strange Stories Of Robert Aickman: I](https://www.goodreads.com/review/show/7921658128?utm_medium=api&utm_source=rss) by Robert Aickman (⭐️4.66)
-- [Caliban’s War (The Expanse, #2)](https://www.goodreads.com/review/show/7232812574?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.36)
+- [Caliban’s War (The Expanse, #2)](https://www.goodreads.com/review/show/7232812574?utm_medium=api&utm_source=rss) by James S.A. Corey (⭐️4.37)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
