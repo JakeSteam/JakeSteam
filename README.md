@@ -19,9 +19,8 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
-- [Cinemaps: An Atlas of 35 Great Movies](https://www.goodreads.com/review/show/8021460983?utm_medium=api&utm_source=rss) by Andrew DeGraff (⭐️3.79)
+- [I Want to Die But I Want to Eat Tteokpokki](https://www.goodreads.com/review/show/8027564649?utm_medium=api&utm_source=rss) by Baek Se-hee (⭐️3.24)
 - [The Evolution Man: Or, How I Ate My Father](https://www.goodreads.com/review/show/8017944275?utm_medium=api&utm_source=rss) by Roy  Lewis (⭐️3.8)
-- [Mark Watson's Live Address to the Nation](https://www.goodreads.com/review/show/7996964640?utm_medium=api&utm_source=rss) by Mark Watson (⭐️3)
 - [The Collected Strange Stories Of Robert Aickman: I](https://www.goodreads.com/review/show/7921658128?utm_medium=api&utm_source=rss) by Robert Aickman (⭐️4.66)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
