@@ -19,8 +19,8 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
+- [The Big Short: Inside the Doomsday Machine](https://www.goodreads.com/review/show/7650890501?utm_medium=api&utm_source=rss) by Michael   Lewis (⭐️4.34)
 - [I Want to Die But I Want to Eat Tteokpokki](https://www.goodreads.com/review/show/8027564649?utm_medium=api&utm_source=rss) by Baek Se-hee (⭐️3.24)
-- [The Evolution Man: Or, How I Ate My Father](https://www.goodreads.com/review/show/8017944275?utm_medium=api&utm_source=rss) by Roy  Lewis (⭐️3.8)
 - [The Collected Strange Stories Of Robert Aickman: I](https://www.goodreads.com/review/show/7921658128?utm_medium=api&utm_source=rss) by Robert Aickman (⭐️4.66)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
