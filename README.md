@@ -19,7 +19,7 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
-- [The Big Short: Inside the Doomsday Machine](https://www.goodreads.com/review/show/7650890501?utm_medium=api&utm_source=rss) by Michael   Lewis (⭐️4.34)
+- [The Business](https://www.goodreads.com/review/show/7282420687?utm_medium=api&utm_source=rss) by Iain Banks (⭐️3.51)
 - [I Want to Die But I Want to Eat Tteokpokki](https://www.goodreads.com/review/show/8027564649?utm_medium=api&utm_source=rss) by Baek Se-hee (⭐️3.24)
 - [The Collected Strange Stories Of Robert Aickman: I](https://www.goodreads.com/review/show/7921658128?utm_medium=api&utm_source=rss) by Robert Aickman (⭐️4.66)
 <!-- GOODREADS-LIST:END -->
