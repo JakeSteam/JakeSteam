@@ -19,8 +19,8 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
+- [Money: A Users Guide](https://www.goodreads.com/review/show/8046035234?utm_medium=api&utm_source=rss) by Laura Whateley (⭐️4.1)
 - [Last Evenings on Earth](https://www.goodreads.com/review/show/7650885988?utm_medium=api&utm_source=rss) by Roberto Bolaño (⭐️4.13)
-- [The Shackleton Signal](https://www.goodreads.com/review/show/8036042029?utm_medium=api&utm_source=rss) by Joshua T. Calvert (⭐️4.22)
 - [The Collected Strange Stories Of Robert Aickman: I](https://www.goodreads.com/review/show/7921658128?utm_medium=api&utm_source=rss) by Robert Aickman (⭐️4.66)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
