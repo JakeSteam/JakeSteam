@@ -19,6 +19,7 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
+- [2:22 – A Ghost Story (NHB Modern Plays)](https://www.goodreads.com/review/show/8052085913?utm_medium=api&utm_source=rss) by Danny Robins (⭐️4.47)
 - [Alien Clay](https://www.goodreads.com/review/show/8049434525?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️3.96)
 - [Money: A Users Guide](https://www.goodreads.com/review/show/8046035234?utm_medium=api&utm_source=rss) by Laura Whateley (⭐️4.1)
 - [Last Evenings on Earth](https://www.goodreads.com/review/show/7650885988?utm_medium=api&utm_source=rss) by Roberto Bolaño (⭐️4.13)
