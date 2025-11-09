@@ -20,7 +20,6 @@ I'm sporadically working on (unreleased):
 ## Reading
 <!-- GOODREADS-LIST:START -->
 - [Alien Clay](https://www.goodreads.com/review/show/8049434525?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️3.96)
-- [Money: A Users Guide](https://www.goodreads.com/review/show/8046035234?utm_medium=api&utm_source=rss) by Laura Whateley (⭐️4.1)
 - [Last Evenings on Earth](https://www.goodreads.com/review/show/7650885988?utm_medium=api&utm_source=rss) by Roberto Bolaño (⭐️4.13)
 - [The Collected Strange Stories Of Robert Aickman: I](https://www.goodreads.com/review/show/7921658128?utm_medium=api&utm_source=rss) by Robert Aickman (⭐️4.66)
 <!-- GOODREADS-LIST:END -->
