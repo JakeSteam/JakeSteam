@@ -19,8 +19,8 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
+- [The Poison Squad: One Chemist's Single-Minded Crusade for Food Safety at the Turn of the Twentieth Century](https://www.goodreads.com/review/show/8063657235?utm_medium=api&utm_source=rss) by Deborah Blum (⭐️3.91)
 - [Alien Clay](https://www.goodreads.com/review/show/8049434525?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️3.96)
-- [Last Evenings on Earth](https://www.goodreads.com/review/show/7650885988?utm_medium=api&utm_source=rss) by Roberto Bolaño (⭐️4.13)
 - [The Collected Strange Stories Of Robert Aickman: I](https://www.goodreads.com/review/show/7921658128?utm_medium=api&utm_source=rss) by Robert Aickman (⭐️4.66)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
