@@ -19,7 +19,6 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
-- [Sapiens: A Graphic History, Volume 2 - The Pillars of Civilization](https://www.goodreads.com/review/show/7974217973?utm_medium=api&utm_source=rss) by David Vandermeulen (⭐️4.24)
 - [One Day, Everyone Will Have Always Been Against This](https://www.goodreads.com/review/show/8073280762?utm_medium=api&utm_source=rss) by Omar El Akkad (⭐️4.64)
 - [The Travels](https://www.goodreads.com/review/show/6479641162?utm_medium=api&utm_source=rss) by Marco Polo (⭐️3.61)
 - [The Poison Squad: One Chemist's Single-Minded Crusade for Food Safety at the Turn of the Twentieth Century](https://www.goodreads.com/review/show/8063657235?utm_medium=api&utm_source=rss) by Deborah Blum (⭐️3.91)
