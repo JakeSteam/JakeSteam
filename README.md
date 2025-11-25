@@ -21,7 +21,6 @@ I'm sporadically working on (unreleased):
 <!-- GOODREADS-LIST:START -->
 - [One Day, Everyone Will Have Always Been Against This](https://www.goodreads.com/review/show/8073280762?utm_medium=api&utm_source=rss) by Omar El Akkad (⭐️4.64)
 - [The Travels](https://www.goodreads.com/review/show/6479641162?utm_medium=api&utm_source=rss) by Marco Polo (⭐️3.61)
-- [The Poison Squad: One Chemist's Single-Minded Crusade for Food Safety at the Turn of the Twentieth Century](https://www.goodreads.com/review/show/8063657235?utm_medium=api&utm_source=rss) by Deborah Blum (⭐️3.91)
 - [Alien Clay](https://www.goodreads.com/review/show/8049434525?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️3.96)
 - [The Collected Strange Stories Of Robert Aickman: I](https://www.goodreads.com/review/show/7921658128?utm_medium=api&utm_source=rss) by Robert Aickman (⭐️4.66)
 <!-- GOODREADS-LIST:END -->
