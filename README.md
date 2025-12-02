@@ -9,11 +9,11 @@ I'm sporadically working on (unreleased):
 
 ## Writing
 <!-- feed start -->
+- 2 December - [More Android games I’ve enjoyed: Spin Hero 🎰, Prune 🌲, Psychofunk ▶️](https://jakelee.co.uk/android-game-reviews-dec25/)
 - 25 November - [Yet more Android games I’ve enjoyed: Ironpost 🏰, Word Run 🔠, Puzzle Peaks EXE 💀](https://jakelee.co.uk/android-game-reviews-nov25-2/)
 - 7 November - [A few more Android games I’ve enjoyed: hocus, Idle Tribe, subpar pool](https://jakelee.co.uk/android-game-reviews-nov25/)
 - 11 October - [A detailed guide to automated farming &amp; selling of Steam Trading Cards 🧑‍🌾🎴](https://blog.jakelee.co.uk/automating-steam-trading-cards/)
 - 29 September - [3 more days in Tokyo, told via Google Maps reviews (part 5/5, 26 reviews)](https://jakelee.co.uk/japan-part-5-tokyo/)
-- 28 September - [4 more days in Kyoto / Osaka / Hiroshima, told via Google Maps reviews (part 4/5, 23 reviews)](https://jakelee.co.uk/japan-part-4-kyoto/)
 <!-- feed end -->
 *[Substack](https://jakeweeklee.substack.com)*
 
