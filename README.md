@@ -9,10 +9,11 @@ I'm sporadically working on (unreleased):
 
 ## Writing
 <!-- feed start -->
-- 23 January - [Memetic insight: how the government tracks you via emojis. Fiction, not paranoia.](https://fragments.jakelee.co.uk/memetic-insight/)
-- 26 November - [Fear and uncertainty are worse than failure](https://fragments.jakelee.co.uk/uncertainty-is-fear/)
-- 27 October - [Moonshot: What if you set your goals too high, and achieve them?](https://fragments.jakelee.co.uk/moonshots-and-how-to-achieve-them/)
-- 23 October - [Delusions of grandeur, or how to not die](https://fragments.jakelee.co.uk/delusions-of-grandeur/)
+- 3 December - [A real-world comparison between Lenovo’s ThinkBook 16p Gen 2 and 16p Gen 6 (with photos!)](https://blog.jakelee.co.uk/thinkbook-gen-2-and-6-comparison/)
+- 2 December - [More Android games I’ve enjoyed: Spin Hero 🎰, Prune 🌲, Psychofunk ▶️](https://jakelee.co.uk/android-game-reviews-dec25/)
+- 25 November - [Yet more Android games I’ve enjoyed: Ironpost 🏰, Word Run 🔠, Puzzle Peaks EXE 💀](https://jakelee.co.uk/android-game-reviews-nov25-2/)
+- 7 November - [A few more Android games I’ve enjoyed: hocus, Idle Tribe, subpar pool](https://jakelee.co.uk/android-game-reviews-nov25/)
+- 11 October - [A detailed guide to automated farming &amp; selling of Steam Trading Cards 🧑‍🌾🎴](https://blog.jakelee.co.uk/automating-steam-trading-cards/)
 <!-- feed end -->
 *[Substack](https://jakeweeklee.substack.com)*
 
