@@ -19,7 +19,7 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
-- [The Object](https://www.goodreads.com/review/show/8102006099?utm_medium=api&utm_source=rss) by Joshua T. Calvert (⭐️4.14)
+- [Angel Down](https://www.goodreads.com/review/show/8124957722?utm_medium=api&utm_source=rss) by Daniel Kraus (⭐️3.95)
 - [The Travels](https://www.goodreads.com/review/show/6479641162?utm_medium=api&utm_source=rss) by Marco Polo (⭐️3.61)
 - [Alien Clay](https://www.goodreads.com/review/show/8049434525?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️3.96)
 - [The Collected Strange Stories Of Robert Aickman: I](https://www.goodreads.com/review/show/7921658128?utm_medium=api&utm_source=rss) by Robert Aickman (⭐️4.66)
