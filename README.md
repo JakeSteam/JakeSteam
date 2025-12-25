@@ -19,6 +19,7 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
+- [Open Circuits: The Inner Beauty of Electronic Components (Packaging may vary)](https://www.goodreads.com/review/show/8173519132?utm_medium=api&utm_source=rss) by Eric Schlaepfer (⭐️4.64)
 - [Into the Forest (The Familiar, #2)](https://www.goodreads.com/review/show/7974217327?utm_medium=api&utm_source=rss) by Mark Z. Danielewski (⭐️4.18)
 - [Conclave](https://www.goodreads.com/review/show/8154646153?utm_medium=api&utm_source=rss) by Robert   Harris (⭐️4.06)
 - [The Buffalo Hunter Hunter](https://www.goodreads.com/review/show/8137638558?utm_medium=api&utm_source=rss) by Stephen Graham Jones (⭐️4.01)
