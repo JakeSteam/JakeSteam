@@ -19,9 +19,10 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
+- [Plotted: A Literary Atlas](https://www.goodreads.com/review/show/8226240719?utm_medium=api&utm_source=rss) by Andrew DeGraff (⭐️3.66)
+- [With the Old Breed: At Peleliu and Okinawa](https://www.goodreads.com/review/show/8226122697?utm_medium=api&utm_source=rss) by Eugene B. Sledge (⭐️4.46)
 - [Into the Forest (The Familiar, #2)](https://www.goodreads.com/review/show/7974217327?utm_medium=api&utm_source=rss) by Mark Z. Danielewski (⭐️4.18)
 - [Conclave](https://www.goodreads.com/review/show/8154646153?utm_medium=api&utm_source=rss) by Robert   Harris (⭐️4.06)
-- [The Buffalo Hunter Hunter](https://www.goodreads.com/review/show/8137638558?utm_medium=api&utm_source=rss) by Stephen Graham Jones (⭐️4.01)
 - [The Collected Strange Stories Of Robert Aickman: I](https://www.goodreads.com/review/show/7921658128?utm_medium=api&utm_source=rss) by Robert Aickman (⭐️4.66)
 <!-- GOODREADS-LIST:END -->
 *[Goodreads](https://goodreads.com/jakesteam)*
