@@ -19,7 +19,7 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
-- [3001: The Final Odyssey](https://www.goodreads.com/review/show/6135709551?utm_medium=api&utm_source=rss) by Arthur C. Clarke (⭐️3.58)
+- [The Last World](https://www.goodreads.com/review/show/6209446012?utm_medium=api&utm_source=rss) by Christoph Ransmayr (⭐️3.85)
 - [Plotted: A Literary Atlas](https://www.goodreads.com/review/show/8226240719?utm_medium=api&utm_source=rss) by Andrew DeGraff (⭐️3.66)
 - [With the Old Breed: At Peleliu and Okinawa](https://www.goodreads.com/review/show/8226122697?utm_medium=api&utm_source=rss) by Eugene B. Sledge (⭐️4.46)
 - [Into the Forest (The Familiar, #2)](https://www.goodreads.com/review/show/7974217327?utm_medium=api&utm_source=rss) by Mark Z. Danielewski (⭐️4.18)
