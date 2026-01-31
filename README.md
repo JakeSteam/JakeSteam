@@ -20,7 +20,7 @@ I'm sporadically working on (unreleased):
 ## Reading
 <!-- GOODREADS-LIST:START -->
 - [Invisible Cities](https://www.goodreads.com/review/show/8259312568?utm_medium=api&utm_source=rss) by Italo Calvino (⭐️4.15)
-- [The Last World](https://www.goodreads.com/review/show/6209446012?utm_medium=api&utm_source=rss) by Christoph Ransmayr (⭐️3.86)
+- [The Last World](https://www.goodreads.com/review/show/6209446012?utm_medium=api&utm_source=rss) by Christoph Ransmayr (⭐️3.85)
 - [Into the Forest (The Familiar, #2)](https://www.goodreads.com/review/show/7974217327?utm_medium=api&utm_source=rss) by Mark Z. Danielewski (⭐️4.18)
 - [Conclave](https://www.goodreads.com/review/show/8154646153?utm_medium=api&utm_source=rss) by Robert   Harris (⭐️4.06)
 - [The Collected Strange Stories Of Robert Aickman: I](https://www.goodreads.com/review/show/7921658128?utm_medium=api&utm_source=rss) by Robert Aickman (⭐️4.66)
