@@ -9,11 +9,11 @@ I'm sporadically working on (unreleased):
 
 ## Writing
 <!-- feed start -->
+- 6 February - [Android game reviews: Droplet Idle 💧, Idle Gem ⛏️, ♾️ Energy Loops](https://jakelee.co.uk/android-game-reviews-feb26/)
 - 30 January - [Adding accurate AsyncImage previews in Coil 3 with a Compose wrapper](https://blog.jakelee.co.uk/coil-asyncimage-previews/)
 - 29 December - [Even more Android games I’ve enjoyed: Railbound 🚂, String of Words 🪢, Orbia ⚽](https://jakelee.co.uk/more-android-game-reviews-dec25/)
 - 3 December - [A real-world comparison between Lenovo’s ThinkBook 16p Gen 2 and 16p Gen 6 (with photos!)](https://blog.jakelee.co.uk/thinkbook-gen-2-and-6-comparison/)
 - 2 December - [More Android games I’ve enjoyed: Spin Hero 🎰, Prune 🌲, Psychofunk ▶️](https://jakelee.co.uk/android-game-reviews-dec25/)
-- 25 November - [Yet more Android games I’ve enjoyed: Ironpost 🏰, Word Run 🔠, Puzzle Peaks EXE 💀](https://jakelee.co.uk/android-game-reviews-nov25-2/)
 <!-- feed end -->
 *[Substack](https://jakeweeklee.substack.com)*
 
