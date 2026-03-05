@@ -20,7 +20,8 @@ I'm sporadically working on (unreleased):
 ## Reading
 <!-- GOODREADS-LIST:START -->
 - [Practical Kotlin Deep Dive: Unlocking the 'How' and 'Why' behind Kotlin fundamentals and internal mechanisms](https://www.goodreads.com/review/show/8397353226?utm_medium=api&utm_source=rss) by Jaewoong Eum (⭐️)
-- [Wyrd and Other Derelictions](https://www.goodreads.com/review/show/8397127187?utm_medium=api&utm_source=rss) by Adam L.G. Nevill (⭐️3.79)
+- [Strong Female Character](https://www.goodreads.com/review/show/8410651077?utm_medium=api&utm_source=rss) by Fern  Brady (⭐️4.39)
+- [Wyrd and Other Derelictions](https://www.goodreads.com/review/show/8397127187?utm_medium=api&utm_source=rss) by Adam L.G. Nevill (⭐️3.78)
 - [Invisible Cities](https://www.goodreads.com/review/show/8259312568?utm_medium=api&utm_source=rss) by Italo Calvino (⭐️4.15)
 - [The Last World](https://www.goodreads.com/review/show/6209446012?utm_medium=api&utm_source=rss) by Christoph Ransmayr (⭐️3.86)
 - [Into the Forest (The Familiar, #2)](https://www.goodreads.com/review/show/7974217327?utm_medium=api&utm_source=rss) by Mark Z. Danielewski (⭐️4.18)
