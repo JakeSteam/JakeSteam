@@ -19,7 +19,7 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
-- [Practical Kotlin Deep Dive: Unlocking the 'How' and 'Why' behind Kotlin fundamentals and internal mechanisms](https://www.goodreads.com/review/show/8397353226?utm_medium=api&utm_source=rss) by Jaewoong Eum (⭐️)
+- [Entrances and Exits](https://www.goodreads.com/review/show/8455110822?utm_medium=api&utm_source=rss) by Michael    Richards (⭐️3.99)
 - [Strong Female Character](https://www.goodreads.com/review/show/8410651077?utm_medium=api&utm_source=rss) by Fern  Brady (⭐️4.39)
 - [Invisible Cities](https://www.goodreads.com/review/show/8259312568?utm_medium=api&utm_source=rss) by Italo Calvino (⭐️4.15)
 - [The Last World](https://www.goodreads.com/review/show/6209446012?utm_medium=api&utm_source=rss) by Christoph Ransmayr (⭐️3.86)
