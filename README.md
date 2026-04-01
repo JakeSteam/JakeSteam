@@ -19,8 +19,8 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
+- [Roadside Picnic](https://www.goodreads.com/review/show/2129315881?utm_medium=api&utm_source=rss) by Arkady Strugatsky (⭐️4.15)
 - [Watching Neighbours Twice a Day...: How ’90s TV (Almost) Prepared Me For Life](https://www.goodreads.com/review/show/8469066833?utm_medium=api&utm_source=rss) by Josh Widdicombe (⭐️3.85)
-- [Entrances and Exits](https://www.goodreads.com/review/show/8455110822?utm_medium=api&utm_source=rss) by Michael    Richards (⭐️3.99)
 - [Invisible Cities](https://www.goodreads.com/review/show/8259312568?utm_medium=api&utm_source=rss) by Italo Calvino (⭐️4.15)
 - [The Last World](https://www.goodreads.com/review/show/6209446012?utm_medium=api&utm_source=rss) by Christoph Ransmayr (⭐️3.86)
 - [Into the Forest (The Familiar, #2)](https://www.goodreads.com/review/show/7974217327?utm_medium=api&utm_source=rss) by Mark Z. Danielewski (⭐️4.18)
