@@ -5,7 +5,6 @@ I work as a Principal Android Engineer at üê∏[Seatfrog](https://seatfrog.com/)
 I'm sporadically working on (unreleased): 
 - [Appbini](https://appbini.com) (Android, Backend) *(Stack: [Ktor](https://ktor.io/), [Exposed](https://www.jetbrains.com/exposed/))*
 - WordCrawler (Android, iOS, Desktop) *(Stack: [Kotlin](https://kotlinlang.org/docs/multiplatform.html) & [Compose](https://www.jetbrains.com/compose-multiplatform/) Multiplatform, [Room](https://developer.android.com/kotlin/multiplatform/room), etc)*
-- [Commit.Email](https://commit.email) *(Stack: [Node.js](https://nodejs.org/en), [TypeScript](https://www.typescriptlang.org/), [Octokit](https://github.com/octokit/octokit.js), [GitHub Apps](https://github.com/marketplace?type=apps))*
 
 ## Writing
 <!-- feed start -->
