@@ -24,9 +24,7 @@ jobs:
             https://blog.jakelee.co.uk/feed.xml
             https://history.jakelee.co.uk/feed.xml
             https://minima.jakelee.co.uk/feed.xml
-            https://fragments.jakelee.co.uk/feed.xml
             https://jakelee.co.uk/feed.xml
-            https://news.codecured.org/feed.xml
       - if: ${{ steps.feed.outputs.changed == true }}
         uses: sarisia/actions-commit@266e3281638e11cf0101ae9c3e893e8abfc6fda1 # latest as of 2024-08-16
         with:
