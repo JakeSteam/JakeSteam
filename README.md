@@ -18,7 +18,7 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
-- [Robinson Crusoe](https://www.goodreads.com/review/show/8569056349?utm_medium=api&utm_source=rss) by Daniel Defoe (⭐️3.69)
+- [Replaceable You: Adventures in Human Anatomy](https://www.goodreads.com/review/show/8618864051?utm_medium=api&utm_source=rss) by Mary Roach (⭐️4.04)
 - [Watching Neighbours Twice a Day...: How ’90s TV (Almost) Prepared Me For Life](https://www.goodreads.com/review/show/8469066833?utm_medium=api&utm_source=rss) by Josh Widdicombe (⭐️3.85)
 - [The Last World](https://www.goodreads.com/review/show/6209446012?utm_medium=api&utm_source=rss) by Christoph Ransmayr (⭐️3.85)
 - [Into the Forest (The Familiar, #2)](https://www.goodreads.com/review/show/7974217327?utm_medium=api&utm_source=rss) by Mark Z. Danielewski (⭐️4.18)
