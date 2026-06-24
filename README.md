@@ -20,7 +20,7 @@ I'm sporadically working on (unreleased):
 <!-- GOODREADS-LIST:START -->
 - [The Fossil (Secrets of Mars, #1)](https://www.goodreads.com/review/show/8695152603?utm_medium=api&utm_source=rss) by Joshua T. Calvert (⭐️4.15)
 - [Cage of Souls](https://www.goodreads.com/review/show/8633583167?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️3.99)
-- [Thirst: Twelve Drinks that Changed My Life](https://www.goodreads.com/review/show/8619728784?utm_medium=api&utm_source=rss) by John   Robins (⭐️4.46)
+- [Thirst: Twelve Drinks that Changed My Life](https://www.goodreads.com/review/show/8619728784?utm_medium=api&utm_source=rss) by John   Robins (⭐️4.45)
 - [Watching Neighbours Twice a Day...: How ’90s TV (Almost) Prepared Me For Life](https://www.goodreads.com/review/show/8469066833?utm_medium=api&utm_source=rss) by Josh Widdicombe (⭐️3.84)
 - [The Last World](https://www.goodreads.com/review/show/6209446012?utm_medium=api&utm_source=rss) by Christoph Ransmayr (⭐️3.85)
 - [Into the Forest (The Familiar, #2)](https://www.goodreads.com/review/show/7974217327?utm_medium=api&utm_source=rss) by Mark Z. Danielewski (⭐️4.18)
