@@ -18,7 +18,7 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
-- [The Fossil (Secrets of Mars, #1)](https://www.goodreads.com/review/show/8695152603?utm_medium=api&utm_source=rss) by Joshua T. Calvert (⭐️4.15)
+- [A Wrinkle in Time (Time Quintet, #1)](https://www.goodreads.com/review/show/8713577978?utm_medium=api&utm_source=rss) by Madeleine L&apos;Engle (⭐️3.91)
 - [Cage of Souls](https://www.goodreads.com/review/show/8633583167?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️3.99)
 - [Thirst: Twelve Drinks that Changed My Life](https://www.goodreads.com/review/show/8619728784?utm_medium=api&utm_source=rss) by John   Robins (⭐️4.45)
 - [Watching Neighbours Twice a Day...: How ’90s TV (Almost) Prepared Me For Life](https://www.goodreads.com/review/show/8469066833?utm_medium=api&utm_source=rss) by Josh Widdicombe (⭐️3.84)
