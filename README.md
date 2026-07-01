@@ -18,7 +18,7 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
-- [A Wrinkle in Time (Time Quintet, #1)](https://www.goodreads.com/review/show/8713577978?utm_medium=api&utm_source=rss) by Madeleine L&apos;Engle (⭐️3.91)
+- [American War](https://www.goodreads.com/review/show/8731527256?utm_medium=api&utm_source=rss) by Omar El Akkad (⭐️3.81)
 - [Cage of Souls](https://www.goodreads.com/review/show/8633583167?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️3.98)
 - [Thirst: Twelve Drinks that Changed My Life](https://www.goodreads.com/review/show/8619728784?utm_medium=api&utm_source=rss) by John   Robins (⭐️4.44)
 - [Watching Neighbours Twice a Day...: How ’90s TV (Almost) Prepared Me For Life](https://www.goodreads.com/review/show/8469066833?utm_medium=api&utm_source=rss) by Josh Widdicombe (⭐️3.84)
