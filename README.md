@@ -18,6 +18,7 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
+- [Around the World in Eighty Days](https://www.goodreads.com/review/show/8756859692?utm_medium=api&utm_source=rss) by Jules Verne (⭐️3.95)
 - [Cage of Souls](https://www.goodreads.com/review/show/8633583167?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️3.99)
 - [Watching Neighbours Twice a Day...: How ’90s TV (Almost) Prepared Me For Life](https://www.goodreads.com/review/show/8469066833?utm_medium=api&utm_source=rss) by Josh Widdicombe (⭐️3.84)
 - [The Last World](https://www.goodreads.com/review/show/6209446012?utm_medium=api&utm_source=rss) by Christoph Ransmayr (⭐️3.85)
