@@ -18,6 +18,7 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
+- [Redshirts](https://www.goodreads.com/review/show/8789718290?utm_medium=api&utm_source=rss) by John Scalzi (⭐️3.85)
 - [Fahrenheit-182: A Memoir](https://www.goodreads.com/review/show/8769308762?utm_medium=api&utm_source=rss) by Mark Hoppus (⭐️4.48)
 - [Designing Virtual Worlds: Volume I](https://www.goodreads.com/review/show/8766732510?utm_medium=api&utm_source=rss) by Richard A. Bartle (⭐️)
 - [Cage of Souls](https://www.goodreads.com/review/show/8633583167?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️3.99)
