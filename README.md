@@ -8,7 +8,7 @@ I'm sporadically working on (unreleased):
 
 ## Writing
 <!-- feed start -->
-- 29 May - [The complete guide to efficient skill point &amp; Wheelspin farming in Forza Horizon 6](https://jakelee.co.uk/forza-horizon-6-skillpoint-farming/)
+- 29 May - [The [OUTDATED] guide to efficient skill point &amp; Wheelspin farming in Forza Horizon 6](https://jakelee.co.uk/forza-horizon-6-skillpoint-farming/)
 - 6 February - [Android game reviews: Droplet Idle 💧, Idle Gem ⛏️, ♾️ Energy Loops](https://jakelee.co.uk/android-game-reviews-feb26/)
 - 30 January - [Adding accurate AsyncImage previews in Coil 3 with a Compose wrapper](https://blog.jakelee.co.uk/coil-asyncimage-previews/)
 - 29 December - [Even more Android games I’ve enjoyed: Railbound 🚂, String of Words 🪢, Orbia ⚽](https://jakelee.co.uk/more-android-game-reviews-dec25/)
