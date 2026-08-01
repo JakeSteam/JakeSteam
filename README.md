@@ -18,7 +18,7 @@ I'm sporadically working on (unreleased):
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
-- [Dissolution](https://www.goodreads.com/review/show/8802244427?utm_medium=api&utm_source=rss) by Nicholas Binge (⭐️3.96)
+- [Interview with the Vampire (The Vampire Chronicles, #1)](https://www.goodreads.com/review/show/8820226402?utm_medium=api&utm_source=rss) by Anne Rice (⭐️4.04)
 - [Designing Virtual Worlds: Volume I](https://www.goodreads.com/review/show/8766732510?utm_medium=api&utm_source=rss) by Richard A. Bartle (⭐️)
 - [Cage of Souls](https://www.goodreads.com/review/show/8633583167?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️3.98)
 - [The Last World](https://www.goodreads.com/review/show/6209446012?utm_medium=api&utm_source=rss) by Christoph Ransmayr (⭐️3.85)
