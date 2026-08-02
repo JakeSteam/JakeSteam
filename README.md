@@ -2,10 +2,6 @@
 
 I work as a Principal Android Engineer at 🐸[Seatfrog](https://seatfrog.com/)🐸, and do open source web-y / writing-y things in my spare time. 
 
-I'm sporadically working on (unreleased): 
-- [Appbini](https://appbini.com) (Android, Backend) *(Stack: [Ktor](https://ktor.io/), [Exposed](https://www.jetbrains.com/exposed/))*
-- WordCrawler (Android, iOS, Desktop) *(Stack: [Kotlin](https://kotlinlang.org/docs/multiplatform.html) & [Compose](https://www.jetbrains.com/compose-multiplatform/) Multiplatform, [Room](https://developer.android.com/kotlin/multiplatform/room), etc)*
-
 ## Writing
 <!-- feed start -->
 - 29 May - [The [OUTDATED] guide to efficient skill point &amp; Wheelspin farming in Forza Horizon 6](https://jakelee.co.uk/forza-horizon-6-skillpoint-farming/)
