@@ -14,7 +14,7 @@ I work as a Principal Android Engineer at 🐸[Seatfrog](https://seatfrog.com/)�
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
-- [Biological War: A Scenario](https://www.goodreads.com/review/show/8855750843?utm_medium=api&utm_source=rss) by Annie Jacobsen (⭐️4.21)
+- [Biological War: A Scenario](https://www.goodreads.com/review/show/8855750843?utm_medium=api&utm_source=rss) by Annie Jacobsen (⭐️4.2)
 - [The Count of Monte Cristo](https://www.goodreads.com/review/show/3109250516?utm_medium=api&utm_source=rss) by Alexandre Dumas (⭐️4.31)
 - [Designing Virtual Worlds: Volume I](https://www.goodreads.com/review/show/8766732510?utm_medium=api&utm_source=rss) by Richard A. Bartle (⭐️)
 - [Cage of Souls](https://www.goodreads.com/review/show/8633583167?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️3.99)
