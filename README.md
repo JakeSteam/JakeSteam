@@ -17,7 +17,7 @@ I work as a Principal Android Engineer at 🐸[Seatfrog](https://seatfrog.com/)�
 - [Biological War: A Scenario](https://www.goodreads.com/review/show/8855750843?utm_medium=api&utm_source=rss) by Annie Jacobsen (⭐️4.16)
 - [The Count of Monte Cristo](https://www.goodreads.com/review/show/3109250516?utm_medium=api&utm_source=rss) by Alexandre Dumas (⭐️4.31)
 - [Designing Virtual Worlds: Volume I](https://www.goodreads.com/review/show/8766732510?utm_medium=api&utm_source=rss) by Richard A. Bartle (⭐️)
-- [Cage of Souls](https://www.goodreads.com/review/show/8633583167?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️3.99)
+- [Cage of Souls](https://www.goodreads.com/review/show/8633583167?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️3.98)
 - [The Last World](https://www.goodreads.com/review/show/6209446012?utm_medium=api&utm_source=rss) by Christoph Ransmayr (⭐️3.85)
 - [Into the Forest (The Familiar, #2)](https://www.goodreads.com/review/show/7974217327?utm_medium=api&utm_source=rss) by Mark Z. Danielewski (⭐️4.18)
 <!-- GOODREADS-LIST:END -->
