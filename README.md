@@ -14,7 +14,7 @@ I work as a Principal Android Engineer at 🐸[Seatfrog](https://seatfrog.com/)�
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
-- [A Good Man Is Hard to Find and Other Stories](https://www.goodreads.com/review/show/8976769693?utm_medium=api&utm_source=rss) by Flannery O&apos;Connor (⭐️4.17)
+- [The Peripheral (Jackpot, #1)](https://www.goodreads.com/review/show/8991811912?utm_medium=api&utm_source=rss) by William Gibson (⭐️3.77)
 - [London Falling: A Mysterious Death in a Gilded City and a Family's Search for Truth](https://www.goodreads.com/review/show/8971950897?utm_medium=api&utm_source=rss) by Patrick Radden Keefe (⭐️4.27)
 - [Designing Virtual Worlds: Volume I](https://www.goodreads.com/review/show/8766732510?utm_medium=api&utm_source=rss) by Richard A. Bartle (⭐️)
 - [Cage of Souls](https://www.goodreads.com/review/show/8633583167?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️3.98)
