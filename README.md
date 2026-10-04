@@ -17,7 +17,7 @@ I work as a Principal Android Engineer at 🐸[Seatfrog](https://seatfrog.com/)�
 - [The Peripheral (Jackpot, #1)](https://www.goodreads.com/review/show/8991811912?utm_medium=api&utm_source=rss) by William Gibson (⭐️3.77)
 - [London Falling: A Mysterious Death in a Gilded City and a Family's Search for Truth](https://www.goodreads.com/review/show/8971950897?utm_medium=api&utm_source=rss) by Patrick Radden Keefe (⭐️4.27)
 - [Designing Virtual Worlds: Volume I](https://www.goodreads.com/review/show/8766732510?utm_medium=api&utm_source=rss) by Richard A. Bartle (⭐️)
-- [Cage of Souls](https://www.goodreads.com/review/show/8633583167?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️3.98)
+- [Cage of Souls](https://www.goodreads.com/review/show/8633583167?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️3.99)
 - [The Last World](https://www.goodreads.com/review/show/6209446012?utm_medium=api&utm_source=rss) by Christoph Ransmayr (⭐️3.85)
 - [Into the Forest (The Familiar, #2)](https://www.goodreads.com/review/show/7974217327?utm_medium=api&utm_source=rss) by Mark Z. Danielewski (⭐️4.18)
 <!-- GOODREADS-LIST:END -->
