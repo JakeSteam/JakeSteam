@@ -16,7 +16,7 @@ I work as a Principal Android Engineer at 🐸[Seatfrog](https://seatfrog.com/)�
 <!-- GOODREADS-LIST:START -->
 - [How to Be a Dad: The ultimate guide to pregnancy, birth & dirty nappies](https://www.goodreads.com/review/show/9010459084?utm_medium=api&utm_source=rss) by Oscar Duke (⭐️4.3)
 - [The Peripheral (Jackpot, #1)](https://www.goodreads.com/review/show/8991811912?utm_medium=api&utm_source=rss) by William Gibson (⭐️3.77)
-- [London Falling: A Mysterious Death in a Gilded City and a Family's Search for Truth](https://www.goodreads.com/review/show/8971950897?utm_medium=api&utm_source=rss) by Patrick Radden Keefe (⭐️4.26)
+- [London Falling: A Mysterious Death in a Gilded City and a Family's Search for Truth](https://www.goodreads.com/review/show/8971950897?utm_medium=api&utm_source=rss) by Patrick Radden Keefe (⭐️4.25)
 - [Designing Virtual Worlds: Volume I](https://www.goodreads.com/review/show/8766732510?utm_medium=api&utm_source=rss) by Richard A. Bartle (⭐️)
 - [Cage of Souls](https://www.goodreads.com/review/show/8633583167?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️3.98)
 - [The Last World](https://www.goodreads.com/review/show/6209446012?utm_medium=api&utm_source=rss) by Christoph Ransmayr (⭐️3.85)
