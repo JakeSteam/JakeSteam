@@ -14,9 +14,8 @@ I work as a Principal Android Engineer at 🐸[Seatfrog](https://seatfrog.com/)�
 
 ## Reading
 <!-- GOODREADS-LIST:START -->
-- [Waiting for Godot](https://www.goodreads.com/review/show/9051179282?utm_medium=api&utm_source=rss) by Samuel Beckett (⭐️3.85)
+- [Year of the Rat: Undercover in the British Far Right](https://www.goodreads.com/review/show/9057960496?utm_medium=api&utm_source=rss) by Harry Shukman (⭐️4.15)
 - [How to Be a Dad: The ultimate guide to pregnancy, birth & dirty nappies](https://www.goodreads.com/review/show/9010459084?utm_medium=api&utm_source=rss) by Oscar Duke (⭐️4.3)
-- [The Peripheral (Jackpot, #1)](https://www.goodreads.com/review/show/8991811912?utm_medium=api&utm_source=rss) by William Gibson (⭐️3.77)
 - [Designing Virtual Worlds: Volume I](https://www.goodreads.com/review/show/8766732510?utm_medium=api&utm_source=rss) by Richard A. Bartle (⭐️)
 - [Cage of Souls](https://www.goodreads.com/review/show/8633583167?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐️3.98)
 - [The Last World](https://www.goodreads.com/review/show/6209446012?utm_medium=api&utm_source=rss) by Christoph Ransmayr (⭐️3.85)
